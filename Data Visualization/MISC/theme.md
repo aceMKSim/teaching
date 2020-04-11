@@ -5,17 +5,18 @@
 
 ## Description  
 
-Themes are a powerful way to customize the non-data components of your plots: 
-i.e. titles, labels, fonts, background, gridlines, and legends. 
-Themes can be used to give plots a consistent customized look. 
-Modify a single plot's theme using `theme()`; 
-see `theme_update()` if you want modify the active theme, 
-to affect all subsequent plots. 
-Theme elements are documented together according to inheritance, read more about theme inheritance below.  
++ A powerful way to customize the non-data components of your plots 
++ i.e. titles, labels, fonts, background, gridlines, and legends. 
++ Allows plots to have a consistent customized look. 
 
 ## Theme inheritance  
 
-Theme elements inherit properties from other theme elements heirarchically. For example, axis.title.x.bottom inherits from axis.title.x which inherits from axis.title, which in turn inherits from text. All text elements inherit directly or indirectly from text; all lines inherit from line, and all rectangular objects inherit from rect. This means that you can modify the appearance of multiple elements by setting a single high-level component.
++ Theme elements inherit properties from other theme elements heirarchically. 
+    + For example, `axis.title.x.bottom` inherits from `axis.title.x` which inherits from `axis.title`, which in turn inherits from `text`. 
+    + All text elements inherit directly or indirectly from text; 
+    + all lines inherit from line, and  
+    + all rectangular objects inherit from rect. 
++ This means that you can modify the appearance of multiple elements by setting a single high-level component.
 
 ## Arguments  
 
@@ -95,5 +96,4 @@ Theme elements inherit properties from other theme elements heirarchically. For 
 |	`strip.switch.pad`	|	`strip.switch.pad.grid`	|	space between strips and axes when strips are switched (unit)	|	  
 |		|	`strip.switch.pad.wrap`	|	space between strips and axes when strips are switched (unit)	|	  
 |	others	|	`strip.placement`	|	placement of strip with respect to axes, either "inside" or "outside". Only important when axes and strips are on the same side of the plot.	|	  
-
 
