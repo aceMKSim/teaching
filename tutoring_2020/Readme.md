@@ -1,4 +1,4 @@
-## 참가자
+## My team!
 
 + 최진아
 + 추유림
@@ -6,6 +6,49 @@
 + 홍상화
 + 황성민
 + 황유정
+
+## Session 4th
+
+### Voca
+
++ day7-day9 
+
+### Readings
+
++ AI 2030
+
+### Video
+
++ Luck Louie
+    + Lucky Louie: Why? <https://www.youtube.com/watch?v=6y5Zcat0-_U>
+    + You're just trying to acquire a Black friend! <https://www.youtube.com/watch?v=scTxvIYeDwE>
+    + JERRY'S GYM <https://www.youtube.com/watch?v=n_ZU3bpno6g>
+    + Jerry about doors <https://www.youtube.com/watch?v=LWEunWuyb3k>
+    + Lucky Louie: A Gun for Lucy <https://www.youtube.com/watch?v=9xwrE8bMd2k>
+    + Free pizza: <https://www.youtube.com/watch?v=9bGWXOKVBW0>
+
+## Session 3rd
+
+### Readings
+
++ AI 2030
+
+### Video
+
++ How to graduate college with a job you love <https://youtu.be/29tJAgc54RA>
+    
+## Session 2nd
+
+### Video
+
++ 7 things to do before you graduate college | Liz Wessel | TEDxRutgers <https://www.youtube.com/watch?v=aNTA9FlJVco>
+
+### Readings
+
++ Tolstoy - What men live by <https://www.gutenberg.org/files/6157/6157-h/6157-h.htm#link2H_4_0001>
++ Tolstoy - Three questions <https://www.gutenberg.org/files/6157/6157-h/6157-h.htm#link2H_4_0014>
++ Drucker - Know your strength and values <E:\07_SeoulTech_Lec\ITM_Consultancy\4_readings\1_Know your strength and values.pdf>
++ Drucker - Effectiveness must be learned <E:\07_SeoulTech_Lec\ITM_Consultancy\4_readings\2_Effectiveness must be learned.pdf>
 
 ## Session 1st: 2020-04-13
 
