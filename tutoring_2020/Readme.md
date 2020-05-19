@@ -7,6 +7,18 @@
 + 황성민
 + 황유정
 
+## Session 6th
+
+### Voca
+
++ day10-day12
+
+### Readings
+
+### Video
+
++ https://youtu.be/8KkKuTCFvzI
+
 ## Session 5th
 
 ### Voca
