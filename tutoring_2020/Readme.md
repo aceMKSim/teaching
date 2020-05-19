@@ -7,6 +7,20 @@
 + 황성민
 + 황유정
 
+## Session 5th
+
+### Voca
+
++ day7-day9 
+
+### Readings
+
++ AI 2030
+
+### Video
+
++ https://youtu.be/8KkKuTCFvzI
+
 ## Session 4th
 
 ### Voca
