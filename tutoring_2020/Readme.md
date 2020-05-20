@@ -7,7 +7,7 @@
 + 황성민
 + 황유정
 
-## Session 6th
+## Session 6th: 05-26 10am
 
 ### Voca
 
@@ -19,7 +19,7 @@
 
 + https://youtu.be/8KkKuTCFvzI
 
-## Session 5th
+## Session 5th: 05-19 10am
 
 ### Voca
 
@@ -33,7 +33,7 @@
 
 + https://youtu.be/8KkKuTCFvzI
 
-## Session 4th
+## Session 4th: 05-12 10am
 
 ### Voca
 
@@ -53,7 +53,7 @@
     + Lucky Louie: A Gun for Lucy <https://www.youtube.com/watch?v=9xwrE8bMd2k>
     + Free pizza: <https://www.youtube.com/watch?v=9bGWXOKVBW0>
 
-## Session 3rd
+## Session 3rd: 05-08 2pm
 
 ### Readings
 
@@ -63,7 +63,7 @@
 
 + How to graduate college with a job you love <https://youtu.be/29tJAgc54RA>
     
-## Session 2nd
+## Session 2nd: 04-29 8pm
 
 ### Video
 
@@ -76,7 +76,7 @@
 + Drucker - Know your strength and values <E:\07_SeoulTech_Lec\ITM_Consultancy\4_readings\1_Know your strength and values.pdf>
 + Drucker - Effectiveness must be learned <E:\07_SeoulTech_Lec\ITM_Consultancy\4_readings\2_Effectiveness must be learned.pdf>
 
-## Session 1st: 2020-04-13
+## Session 1st: 04-13 10am
 
 ### ITM의 특색 소개
 
