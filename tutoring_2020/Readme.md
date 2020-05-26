@@ -7,6 +7,8 @@
 + 황성민
 + 황유정
 
+## Session 7th: 06-02 10am
+
 ## Session 6th: 05-26 10am
 
 ### Voca
@@ -17,7 +19,10 @@
 
 ### Video
 
-+ https://youtu.be/8KkKuTCFvzI
++ The next outbreak? We’re not ready | Bill Gates https://www.youtube.com/watch?v=6Af6b_wyiwI&t=147s
++ Bill Gates "Teachers need real feedback https://www.youtube.com/watch?v=81Ub0SMxZQo
++ Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
++ What makes a good life? Lessons from the longest study on happiness | Robert Waldinger https://youtu.be/8KkKuTCFvzI
 
 ## Session 5th: 05-19 10am
 
