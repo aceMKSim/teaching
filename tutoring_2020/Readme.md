@@ -7,6 +7,11 @@
 + 황성민
 + 황유정
 
+## Future Material
+
++ Bill Gates "Teachers need real feedback https://www.youtube.com/watch?v=81Ub0SMxZQo
++ What makes a good life? Lessons from the longest study on happiness | Robert Waldinger https://youtu.be/8KkKuTCFvzI
+
 ## Session 7th: 06-02 10am
 
 ### Voca
@@ -15,9 +20,48 @@
 
 ### Video
 
-+ Bill Gates "Teachers need real feedback https://www.youtube.com/watch?v=81Ub0SMxZQo
-+ Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
-+ What makes a good life? Lessons from the longest study on happiness | Robert Waldinger https://youtu.be/8KkKuTCFvzI
+#### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
+
++ deliver a talk
++ thanks to the world we live in
++ sprout
+
++ hypothetical
++ I told you so 것 봐 내가 뭐랬어
++ I-told-you-so attitude
++ diagnostics standing by
++ plans standng by
++ ramp up
++ was called for (요구되는)
+
++ act on
++ this very thing
++ this very moment
++ CDC center for disease control
++ acronym (stands for)
++ transmit
++ respiratory 호흡기
++ symptomatic 증상이 있는
++ literally dozens of people
++ literally tens of people
++ keeps me up at night
++ transmission 
++ private sector
++ ventilator
++ quarantine
++ ad hoc 
+
++ philantropy 인류애적
++ phil -> loving
++ hydro-philic
++ hydro-phobic
++ English-phobia
++ eradicate
++ infectious
++ as it stands now 
++ projecting
++ ultimate 
++ vast immunity
 
 ## Session 6th: 05-26 10am
 
@@ -27,9 +71,8 @@
 
 ### Video
 
-+ The next outbreak? We’re not ready | Bill Gates https://www.youtube.com/watch?v=6Af6b_wyiwI&t=147s
+#### The next outbreak? We’re not ready | Bill Gates https://www.youtube.com/watch?v=6Af6b_wyiwI&t=147s
 
-+ Vocabulary
 + down in basement
 + barrel 드럼통
 + hunker down 쪼그려 앉다
