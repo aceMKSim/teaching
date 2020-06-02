@@ -12,6 +12,20 @@
 + Bill Gates "Teachers need real feedback https://www.youtube.com/watch?v=81Ub0SMxZQo
 + What makes a good life? Lessons from the longest study on happiness | Robert Waldinger https://youtu.be/8KkKuTCFvzI
 
+## Session 8th: 06-09 10am
+
+### Voca
+
++ day16-day18
+
+### Video
+
+#### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
+
++
++
++
+
 ## Session 7th: 06-02 10am
 
 ### Voca
