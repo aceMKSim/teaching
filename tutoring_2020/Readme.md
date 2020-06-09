@@ -12,6 +12,18 @@
 + Bill Gates "Teachers need real feedback https://www.youtube.com/watch?v=81Ub0SMxZQo
 + What makes a good life? Lessons from the longest study on happiness | Robert Waldinger https://youtu.be/8KkKuTCFvzI
 
+## Session 9th: 06-30 10am
+
+### Voca
+
++ day19-day21
+
+### Video
+
+#### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
+
+---
+
 ## Session 8th: 06-09 10am
 
 ### Voca
@@ -22,9 +34,62 @@
 
 #### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
 
-+
-+
-+
+IHME - Institute for Health Metrics and Evaluation
+therapeutic
+vantage 우위
+applied to America
+contact tracing 추적
+bent the curve 
+widespread
+province 도 (state)
+lockdowns 
+invasive - moving into all areas of something and difficult to stop
+rebound
+thank godness
+keep it under control
+
+economic penalty -> human penalty
+nationwide
+tasteful way
+reopen
+quite large
+curb
+exponential 기하급수적 지수분포
+school-work-sports
+catastrophic 재앙
+do resume 
+over-optimistic
+
+prioritize
+symptomatic
+front of the line (전방)
+extreme measures
+speed of the result
+
+ramp up - increase
+realm - area
+mortality rate - 사망률 (# of death)/(# of pop)
+fatality rate - 치명률 (# of death)/(# of patients)
+plateau - 고원 - 높고 평평한
+developed countries - 선진국
+developing countries - 신흥국
+under-developed countries
+respitatory distress 호흡장애
+sub-Saharian 사하라 사막 이남
+
+across the globe
+stay-at-home order
+undermine - 뿌리를 침식하는 행위를 하다
+shutdowns - 폐쇄
+contain the epidemic  
+contain 퍼지지 않게 막는것, (감정, 소문, 질병)
+going across the border
+across the universe - Beatles
+strict screening 
+exponentiate
+doubling-time 
+half-time 반감기
+big dose
 
 ## Session 7th: 06-02 10am
 
