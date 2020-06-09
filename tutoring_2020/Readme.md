@@ -37,14 +37,14 @@
 
 #### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
 
-IHME - Institute for Health Metrics and Evaluation
-therapeutic
-vantage 우위
-applied to America
-contact tracing 추적
-bent the curve 
-widespread
-province 도 (state)
+IHME - Institute for Health Metrics and Evaluation  
+therapeutic  
+vantage 우위  
+applied to America  
+contact tracing 추적  
+bent the curve   
+widespread  
+province 도 (state)  
 lockdowns 
 invasive - moving into all areas of something and difficult to stop
 rebound
