@@ -45,54 +45,54 @@ contact tracing 추적
 bent the curve   
 widespread  
 province 도 (state)  
-lockdowns 
-invasive - moving into all areas of something and difficult to stop
-rebound
-thank godness
-keep it under control
+lockdowns  
+invasive - moving into all areas of something and difficult to stop  
+rebound  
+thank godness  
+keep it under control  
 
-economic penalty -> human penalty
-nationwide
-tasteful way
-reopen
-quite large
-curb
-exponential 기하급수적 지수분포
-school-work-sports
-catastrophic 재앙
-do resume 
-over-optimistic
+economic penalty -> human penalty  
+nationwide  
+tasteful way  
+reopen  
+quite large  
+curb  
+exponential 기하급수적 지수분포  
+school-work-sports  
+catastrophic 재앙  
+do resume   
+over-optimistic  
 
-prioritize
-symptomatic
-front of the line (전방)
-extreme measures
-speed of the result
+prioritize  
+symptomatic  
+front of the line (전방)  
+extreme measures  
+speed of the result  
 
-ramp up - increase
-realm - area
-mortality rate - 사망률 (# of death)/(# of pop)
-fatality rate - 치명률 (# of death)/(# of patients)
-plateau - 고원 - 높고 평평한
-developed countries - 선진국
-developing countries - 신흥국
-under-developed countries
-respitatory distress 호흡장애
-sub-Saharian 사하라 사막 이남
+ramp up - increase  
+realm - area  
+mortality rate - 사망률 (# of death)/(# of pop)  
+fatality rate - 치명률 (# of death)/(# of patients)  
+plateau - 고원 - 높고 평평한  
+developed countries - 선진국  
+developing countries - 신흥국  
+under-developed countries  
+respitatory distress 호흡장애  
+sub-Saharian 사하라 사막 이남  
 
-across the globe
-stay-at-home order
-undermine - 뿌리를 침식하는 행위를 하다
-shutdowns - 폐쇄
-contain the epidemic  
-contain 퍼지지 않게 막는것, (감정, 소문, 질병)
-going across the border
-across the universe - Beatles
-strict screening 
-exponentiate
-doubling-time 
-half-time 반감기
-big dose
+across the globe  
+stay-at-home order  
+undermine - 뿌리를 침식하는 행위를 하다  
+shutdowns - 폐쇄  
+contain the epidemic    
+contain 퍼지지 않게 막는것, (감정, 소문, 질병)  
+going across the border  
+across the universe - Beatles  
+strict screening  
+exponentiate  
+doubling-time  
+half-time 반감기  
+big dose  
 
 ---
 
