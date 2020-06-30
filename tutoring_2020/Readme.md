@@ -38,15 +38,25 @@
 
 ---
 
-## Session 9th: 06-30 10am
+## Session 10th: 07-06 7:30am
 
 ### Voca
 
-+ day19-day21
++ day19-day20
 
 ### Video
 
 #### Bill Gates on Fighting Coronavirus | The Daily Social Distancing Show https://www.youtube.com/watch?v=iyFT8qXcOrM
+
+---
+
+## Session 9th: 06-30 10am
+
+### Voca
+
+### Video
+
++ Consultancy Project Final Presentation
 
 ---
 
