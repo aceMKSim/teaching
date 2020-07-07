@@ -38,6 +38,33 @@
 
 ---
 
+## Session 11th: 07-07 7:30am
+
+### Voca
+
++ day21
+
++ declare vs proclamation
+
++ though vs although
++ Ex) I had a breakfast, though.
+
++ destitute = completely without
+
++ Ex) He termed the decision crucial.
+
++ About five minutes
++ Five minutes or so.
+
++ for all: considering how much
+  + For all his complaints, he enjoys the place.
+  + For all his complaints, he doesn't enjoy the place.
+
++ appraisal 값 매김 (감정)
++ Appreciation: an increase in the value of an asset over time
++ Price appreciation
++ depreciate 감가상각
+
 ## Session 10th: 07-06 7:30am
 
 ### Voca
