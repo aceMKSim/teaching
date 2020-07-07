@@ -38,11 +38,32 @@
 
 ---
 
+## Session 16th: 07-15 7:30am
+
+### Voca (day27)
+
+## Session 15th: 07-14 7:30am
+
+### Voca (day26)
+
+## Session 14th: 07-13 7:30am
+
+### Voca (day24-25)
+
+## Session 13th: 07-09 7:30am
+
+### Voca (day23)
+
+## Session 12th: 07-08 7:30am
+
+### Voca (day22)
+
+
+
+
 ## Session 11th: 07-07 7:30am
 
-### Voca
-
-+ day21
+### Voca (day21)
 
 + declare vs proclamation
 
