@@ -54,16 +54,38 @@
 
 ### Voca (day23)
 
++ embarkation 탑승 
++ humble ~를 겸손하게 만든다.
++ humbling moment
++ bleak - 식물이 자라지 않는 척박한 토지 
++ accrete - 늘리다, 부착하다. e.g) concrete
++ eccentric - 기묘한
++ heyday 전성기 (=prime)
++ prowess 실력 
++ illusory (시각적) 환상
++ deceptive 속이는
++ deceive vs cheat
+  + deceive: 교묘하게 속이다
+  + cheat: 규칙을 위반하는 속임수 (컨닝, 부정행위)
+  + cunning: 교활한 속임수의
++ marvelous 놀라운
++ bound for~ ~를 향하는
++ secluded 외딴 (외로운)
++ uneasy 사람의 감정 (불안)
++ contend 주장하다. (contention)
++ classic - 전형적인
++ classical - 고전적인
++ fucking-A 
++ camouflage - (보호색을 이용해서) 카멜레온, 개구리, 군복 
++ camo kit
++ attainable - 획득 가능한, 성취 가능한
++ duration
++ disgust
++ Golf is deceptively simple and endlessly complicated.
+
 ## Session 12th: 07-08 7:30am
 
 ### Voca (day22)
-
-
-
-
-## Session 11th: 07-07 7:30am
-
-### Voca (day21)
 
 + declare vs proclamation
 
@@ -85,6 +107,11 @@
 + Appreciation: an increase in the value of an asset over time
 + Price appreciation
 + depreciate 감가상각
+
+
+## Session 11th: 07-07 7:30am
+
+### Voca (day21)
 
 ## Session 10th: 07-06 7:30am
 
