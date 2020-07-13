@@ -50,6 +50,33 @@
 
 ### Voca (day24-25)
 
++ groom
+    + 깨끗이 하다
+    + 털을 단정하게 하자
+    + 동물끼리 혀로 깨끗이하다
+    + 신랑 (bride and groom)
+
++ coalesce
+    + 합체하다
+    + 연합하다
+    + sql 함수
+
++ enigma: 수수께끼
+
++ inordinate
+    + 과도한 (주체불가능하게)
+
++ mainstay
+    + 의지가 되는것
+    + e.g) farming is the mainstay of the rural economy
+    + c.f) bread winner cash cow
+
++ endow: 증여하다
++ cleft (cleave의 과거분사): 갈라진, 분열된
++ cleavage: 분열 쪼개짐
++ insolent: 건방진 무례한
++ feat: 위업 묘기
+
 ## Session 13th: 07-09 7:30am
 
 ### Voca (day23)
