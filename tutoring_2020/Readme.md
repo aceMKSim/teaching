@@ -5,9 +5,8 @@
 ### 방학중 tutoring 12시간
 
 + 월-목 오전 7:30-8:20
-+ 7/14 - 26
 + 7/15 - 27
-+ 7/15 - 4pm 
++ 7/15 - 4pm (선배들과의 대화)
 + 7/16 - 28
 + 7/20 - 29,30
 + 7/21 - 1,2
@@ -42,6 +41,50 @@
 
 ### Voca (day26)
 
++ agitate: 흔들다, 선동하다, 동요하다
++ fasten your seat belt
++ antagonize: make someone dislike you
++ obscure: 애매한
++ impose
+    + force a rule, tax, punishment (부과하다)
+    + c.f) imposing
++ enforce
+    + law enforcement: 사법 집행
++ substantiate
+    + to give substance
++ deft
+    + skillful, clever, quick
++ premise 대전제, 전제
++ presupposition 전제
++ stagnation: stay same, does not grow/develop
++ handy: 편리한
++ tenacity: 끈기 지구력
++ stubbornness: 고집
++ ornament: 장식, 장식품
++ adorn: 꾸미다, 아름답게하다.
++ exhaustive: complete and including everything
++ exhausted: very tired
++ MECE: mutually exclusive collectively exhaustive (+)
++ cite: 인용하다, 언급하다.
++ insight: 직관, 깊이있는 이해
++ prerequisite: 선결조건
++ periodically: 잊을만 하면 또
++ humble: 누추한
++ representative: 대변인
++ representatively: 대표적으로
++ "일차방정식으로 표현하라"
++ segregate: 격리, 분리 (COVID 19)
++ innumerable: (너무 많아서) 셀수없는 c.f) uncountable
++ numerate: 다수의
++ rim: 농구골대
++ proper attire: 적절한 의상
++ TPO: time, place, occasion
+
+
+
+
+
+    
 ## Session 14th: 07-13 7:30am
 
 ### Voca (day24-25)
