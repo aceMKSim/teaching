@@ -50,6 +50,21 @@
 
 ### Voca (day24-25)
 
++ precious 소중한 귀중한
+    + precious metal 귀금속 (금 은)
+    + industrial metal 산업용 금속 (구리)
++ astonish (vs surprise) - 강하고, 화들짝 놀라 물건을 떨어뜨리는 짧고 강한
++ shock (vs astonish) - 충격, 지속적인 여파
+
++ milestone
+    + a stone set up beside a road to mark the distance in miles to a particular place.
+    + an action or event marking a significant change or stage in development.
+
++ endorse
++ equivalent 
++ obliterate 지우다 없애다
+    + c.f) litter, obsolete
+
 + groom
     + 깨끗이 하다
     + 털을 단정하게 하자
