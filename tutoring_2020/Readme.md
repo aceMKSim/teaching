@@ -37,6 +37,44 @@
 
 ### Voca (day27)
 
++ entice vs seduce 
+    + seduce: away from duty, accepted principles, or proper conduct
++ heir 후계자
++ inheritor 상속자
++ "representing Mr. Hong"
++ hasty: 급한 (action with hurry)
++ intermittent: 간헐적인
++ barracks: 군인들의 숙소
++ veracious, bona fide (사람)
++ genuine person
++ solitary 외로운 (인적이 없어)
++ solitary: 독방
++ concede vs yield
++ acknowledge: "감사의 글"
++ improbable vs infeasible
++ ostentatious (뽐내며) 과시하는
++ desert: 호적에서 파버리다. 폐가로 만들어 버리는
++ works out in the gym: 헬스장 가서 운동한다.
++ Show your work: 계산 과정을 적어라.
++ revolutionize vs innovate
++ number - 숫자
++ numeric - 숫자의
+   + 200715 - not numeric, but "date"
+   + why not? 200715+30=200745
+   + 3 vs 4 - not numeric, but "categorical"
+   + Replaceable with grouping index e.g. A,B,C,D
++ numerous - 매우 많은  
++ legible. cf) Write legibly.
++ displace 
++ dislocation: 탈구 (뼈가 빠지다)
+
+
+
+
+
+
+
+
 ## Session 15th: 07-14 7:30am
 
 ### Voca (day26)
