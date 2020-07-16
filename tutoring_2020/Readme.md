@@ -33,6 +33,54 @@
 
 ---
 
+## Session 17th: 07-16 7:30am
+
+### Voca (day28)
+
++ refinary 정유, 제철
++ allegedly 주장한 바에 의하면, 억측에 따르면
++ inadvertently 의도치 않게, 실수로
++ profoundly 깊은
+    + state, quality, emotion
+    + person's knowledge/insight
++ henceforth 
+    + 지금부터 이래로
+    + cf) so on and so forth: 기타등등
++ partial: 부분적으로, 한쪽에 치우친, 편견을 가진
++ wholly: 전체적으로
++ impartial: 중립적인, 편견없이
++ reportedly: 보고된 바에 따르면
++ toil: 수고, 노고
++ eject: 뽑아내다
++ supersede: replace with something new
++ feign: 상상하다, 꾸며내다.
++ simulate: 모의 실험을 하다.
++ hover: 둥둥 떠다니다.
++ applaud: 박수갈채, 칭찬
++ evolve: develop gradually from a simple form to a complex form
++ contract
+    + 줄이다, 수축하다.
+    + 계약, 수축
++ by virtue of: ~덕분에 (positive)
++ thanks to: ~덕분에 (positive)
++ (neutral)
+    + owing to
+    + due to
+    + because of
+    + on account of
++ secrete 분비하다, 숨기다
++ pacifier: 중재자 (싸움을), 달래다.
++ extraordinary 비범한
++ ordinary 보통의
++ mediocre 평범한 (좋지도 나쁘지도 않은) (그냥 그래~)
++ amplitude 진폭, 크기, 규모
++ shared with confidence 비밀스럽게
++ confidential 비밀의
++ confident -> confidence
++ confidential -> confidence
++ ominous: 전조의 (미래의 안좋은일을)
++ sever: 자르다, 절단하다.
+
 ## Session 16th: 07-15 7:30am
 
 ### Voca (day27)
