@@ -33,6 +33,79 @@
 
 ---
 
+## Session 18th: 07-20 7:30am
+
+### Voca (day29-30)
+
++ impart 
+    + 전달하다.
+    + bestow, communicate
+
++ transition
+    + A to B
+    + one state, condition to another
+
++ out of sight, out of mind
+
++ predominantly
+    + (우세) main element
+
++ incipent
+    + cf) inception 시초
+    + 초기의, 시초의
+    + in an initial stage
+
++ signiture
+    + 서명
+    + distintive character that can be used to identify sb/sth
+
++ artisan
+    + 장인
+    + handcraft (손기술)
+
++ keenly
+    + very strong
+
++ intercourse
+    + 교류, 교환
+    + cf) sexual intercourse
+
++ eminent
+    + 뛰어난 
+    + famous, respected
+    + eminence (excellence)
+
++ instructive
+    + useful, informative
+
++ relentless
+    + 계속적인, 쉴새없는
+    + harsh, inflexible 잔인하고 냉혹한
+
++ ameliorate
+    + 개량하다 (make better)
+
++ gluttonous
+    + 게걸스러운 식탐들린
+    + excessivle greedy
+
++ diverge
+    + 갈라지다, 분리하다
+    + (math) 발산하다 (vs converge)
+
++ dissemination
+    + 퍼뜨리다 
+    + news, idea, info to a lot people
+
++ dissent
+    + vs. consent, consensus
+
++ avert
+    + move away
+
++ void 
+    + empty
+
 ## Session 17th: 07-16 7:30am
 
 ### Voca (day28)
@@ -116,13 +189,6 @@
 + displace 
 + dislocation: 탈구 (뼈가 빠지다)
 
-
-
-
-
-
-
-
 ## Session 15th: 07-14 7:30am
 
 ### Voca (day26)
@@ -165,9 +231,6 @@
 + rim: 농구골대
 + proper attire: 적절한 의상
 + TPO: time, place, occasion
-
-
-
 
 
     
