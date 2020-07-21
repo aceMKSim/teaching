@@ -37,6 +37,50 @@
 
 ### Voca (day3-4)
 
++ devastation: 파괴, 초토화
++ exigency: 급박, 절박한 사정 (emergency)
++ tame: 길들이다
++ domesticate: 가축화하다
++ commision
+    + 위원회 e.g) committee
+    + 수수료 e.g) fee
+    + 명령 e.g) commissioned officer 장교
+           e.g) non-commissioned officer 부사관 
++ compel
+    + 강제하다 (unpleasant)
++ intermingle: mix together
++ incessant: 끈임없는 (집요한)
++ cease: 멈추다
++ alternate: 교차하다. 
+    + e.g) alternate electicity
+    + e.g) switch
++ rotate: 순환하다
++ embed: 심다
++ surmise: 추측하다.
++ tint: a small amount of color 
+   + tinted glasses
+   + tinting shop
++ supposition: 추측
++ bulk: 무더기
++ bulk up
++ bulk (big size) vs lot (large number)
++ a lot of
++ inclination: 기울기, 경향
++ counter
+    + over the counter drug: 일반의약품
+    + over the counter derivative: 파생상품 시장을 거치지 않고 거래되는 파생상품 (옵션, 선물)
++ deteriorate: 악화시키다.
++ subterfuge: 속임수
++ prominence: 두드러지는 (easily seen or well known) 
++ practically: 거의
++ practice
+   + exercise, perform: 수술을 집도하다
+   + law practitioner: 판사, 변호사, 검사
+   +
+
+
+
+
 ## Session 19th: 07-21 7:30am
 
 ### Voca (day1-2)
