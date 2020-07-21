@@ -33,6 +33,31 @@
 
 ---
 
+## Session 20th: 07-22 7:30am
+
+### Voca (day3-4)
+
+## Session 19th: 07-21 7:30am
+
+### Voca (day1-2)
+
++ heterogenous vs homogenous (antonym)
++ thesaurus 
++ ravage: serious damage (파괴, 황폐, 휩쓸다, 휩쓸리다)
++ sedentary: 앉아있는, 정지해 있는
++ unprecendented: 새로운, 전대미문의 (never existant before)
++ novel: 참신한, 새로운
++ novelty: 참신함
++ discrepancy: 불일치
++ inconsistency: 모순
++ As it had started raining, no wonder I became wet.
++ solid 단단한 고체 확고한 견고한 단색의
++ conspicuous: clearly visible
++ "Gives an offer that can't be declined" 거절할수 없는 제안
++ engrave: cut, carve on the hard surface
++ sporadically: occasional or at irregular
++ assure vs guarantee (법적책임)(promise)
+
 ## Session 18th: 07-20 7:30am
 
 ### Voca (day29-30)
