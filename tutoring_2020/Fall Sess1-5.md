@@ -1,16 +1,16 @@
-## Session 20th: 09-XX X:XXpm
+## Session 5th: 09-XX X:XXpm
 
 ### Voca (day11-15)
 
-## Session 19th: 09-XX X:XXpm
+## Session 4th: 09-23 3pm
 
 ### Voca (day6-10)
 
-## Session 18th: 09-XX X:XXpm
+## Session 3th: 09-16 2pm
 
 ### Voca (day1-5)
 
-## Session 17th: 09-07 1pm
+## Session 2th: 09-07 1pm
 
 ### Voca (day29-30)
 
