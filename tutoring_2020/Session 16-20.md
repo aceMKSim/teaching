@@ -1,3 +1,80 @@
+## Session 20th: 09-XX X:XXpm
+
+### Voca (day11-15)
+
+## Session 19th: 09-XX X:XXpm
+
+### Voca (day6-10)
+
+## Session 18th: 09-XX X:XXpm
+
+### Voca (day1-5)
+
+## Session 17th: 09-07 1pm
+
+### Voca (day29-30)
+
++ shortcoming: 부족
++ failing: 실패, 부족
++ objective: 객관적인
++ object: 대상, 목적
++ object-oriented programming: 객체지향형
++ "class"
++ magnificence: 웅장, 거대
++ magnify: 확대하다
++ instruct: 가르치다
++ instructive: useful, informative
++ bound for: ~을 향하는
++ bind의 p.p.
++ destination: 목적지, 운명
++ relentless: 잔인한, 냉혹한 
+              (harsh/ inflexible)
++ continuous
++ ponderous: 매우 무거운
++ obscure: 애매한
++ arise from: happen
++ draw: 끌어당기다, 그리다.
++ drawing
++ ameliorate: 개량하다. make better
++ attract: 자석, "this t-shirt attracts dust".
++ meditate: 명상하다.
++ gluttonous: excessively greedy 
+              걸신들린 사람처럼
+              식탐, 게걸들린
++ diverge: 갈라지다, 분기하다.
+           발산하다. 
+           (ant. converge, convergence)
++ proliferate: 번식하다, 증식하다. (폭발적으로)
++ live strong
++ vicinity: 근교, 근처, 부근
++ dissemination: 퍼트리다. (spread)
+  (news, info, rumor, idea to a lot of people)
++ spread ex) 빵에 버터를 바르는 행위
++ dissent(동의하지 않는) <-> consent(동의하는)
++ consensus: 동의 
++ avert: turn away
++ void: empty
+
++ Title: Tomorrow zoom class (내용없음)(냉무)(Void)
++ Content:  
+
++ impart: 부여하다, 주다 (bestow, communicate)
++ transition: from A to B
+(one condition to another)
++ Out of sight, out of mind
++ predominantly 주로, 대부분
+                우세, main element, 주류
++ proportion: 비율, 크기, 규모, 비례 (0-100%)
++ incipent: 초기, in early stage, 시초
++ signiture: distinctive character that can be used to identify sb/sth.
++ perishable: 유통기한이 있는
++ artisan: 장인 (handcraft, 수제)
++ keenly: very strong
++ intercourse: 교류 (sexual intercourse)
++ eminent: (사람) famous and respected
++ excellent
++ outstanding
+
 ## Session 16th: 09-02 1:00pm
 
 ### Voca (day27-28)
@@ -73,82 +150,6 @@ and changes, and thus is not controllable.
 
 > The process of learning has an entirely different quality for students inthe being mode of relatedness to the world. To begin with, they do not go to the course lectures, even to the first one in a course, as tabulae rasae. They have thought beforehand about the problems the lectures will be dealing with and have in mind certain questions and problems of their own. They have been occupied with the topic and it interests them. Instead of being passive receptacles of words and ideas, they listen, they hear, and most important, they receive and they respond in an active, productive way. What they listen to stimulates their own thinking processes. New questions, new ideas, new perspectives arise in their minds. Their listening is an alive process. They listen with interest, hear what the lecturer says, and spontaneously come to life in response to what they hear. They do not simply acquire knowledge that they can take home and memorize. Each student has been affected and has changed: each is different after the lecture than he or she was before it. Of course, this mode of learning can prevail only if the lecture offers stimulating material. Empty talk cannot be responded to in the being mode, and in such circumstances, students in the being mode find it best not to listen at all, but to concentrate on their own thought processes.
 
-## Session 17th: 09-XX X:XXpm
 
-### Voca (day29-30)
 
-+ shortcoming: 부족
-+ failing: 실패, 부족
-+ objective: 객관적인
-+ object: 대상, 목적
-+ object-oriented programming: 객체지향형
-+ "class"
-+ magnificence: 웅장, 거대
-+ magnify: 확대하다
-+ instruct: 가르치다
-+ instructive: useful, informative
-+ bound for: ~을 향하는
-+ bind의 p.p.
-+ destination: 목적지, 운명
-+ relentless: 잔인한, 냉혹한 
-              (harsh/ inflexible)
-+ continuous
-+ ponderous: 매우 무거운
-+ obscure: 애매한
-+ arise from: happen
-+ draw: 끌어당기다, 그리다.
-+ drawing
-+ ameliorate: 개량하다. make better
-+ attract: 자석, "this t-shirt attracts dust".
-+ meditate: 명상하다.
-+ gluttonous: excessively greedy 
-              걸신들린 사람처럼
-              식탐, 게걸들린
-+ diverge: 갈라지다, 분기하다.
-           발산하다. 
-           (ant. converge, convergence)
-+ proliferate: 번식하다, 증식하다. (폭발적으로)
-+ live strong
-+ vicinity: 근교, 근처, 부근
-+ dissemination: 퍼트리다. (spread)
-  (news, info, rumor, idea to a lot of people)
-+ spread ex) 빵에 버터를 바르는 행위
-+ dissent(동의하지 않는) <-> consent(동의하는)
-+ consensus: 동의 
-+ avert: turn away
-+ void: empty
-
-+ Title: Tomorrow zoom class (내용없음)(냉무)(Void)
-+ Content:  
-
-+ impart: 부여하다, 주다 (bestow, communicate)
-+ transition: from A to B
-(one condition to another)
-+ Out of sight, out of mind
-+ predominantly 주로, 대부분
-                우세, main element, 주류
-+ proportion: 비율, 크기, 규모, 비례 (0-100%)
-+ incipent: 초기, in early stage, 시초
-+ signiture: distinctive character that can be used to identify sb/sth.
-+ perishable: 유통기한이 있는
-+ artisan: 장인 (handcraft, 수제)
-+ keenly: very strong
-+ intercourse: 교류 (sexual intercourse)
-+ eminent: (사람) famous and respected
-+ excellent
-+ outstanding
-
-## Session 18th: 09-XX X:XXpm
-
-### Voca (day1-5)
-
-## Session 19th: 09-XX X:XXpm
-
-### Voca (day6-10)
-
-## Session 20th: 09-XX X:XXpm
-
-### Voca (day11-15)
-
-## Session 21th: 09-XX X:XXpm
 
