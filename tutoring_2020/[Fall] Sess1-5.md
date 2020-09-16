@@ -10,8 +10,6 @@
 
 ### Voca (day1-5)
 
-## Session 2th: 09-07 1pm
-
 + contraction: 수축, 축소
 + contract: 계약, 계약서
 + impediment: 방해
@@ -83,6 +81,8 @@
     + e.g.) ...  he is just stalling.
     + 가판대, 매대
 + sporadically: 이따금식, 산발적으로 (정해진 주기없이)
+
+## Session 2th: 09-07 1pm
 
 ### Voca (day29-30)
 
