@@ -12,6 +12,90 @@
 
 ## Session 2th: 09-07 1pm
 
+contraction: 수축, 축소
+contract: 계약, 계약서
+impediment: 방해
+legitimate: 합법의, 적자의(birth son)
+legitimate money-printing business
+legit: legitimate의 informal
+astonishing: 경치, 외모, breath-taking
+full-fledged: 날아갈 준비가 된, completely developed and trained
+unwavering: steady or resolute(결심)
+determined: 확고한
+resolution: 각오
+new year's resolution
+waver: 동요, 주저, 흔들다
+abandoned: 버림받은, 버려진, 방탕한 e.g) wild and abandoned dance.
+endurance: 지구력 (keep doing something difficult, unpleasant, or painful)
+A, B, and C (oxford comma) vs A, B and C 
+swiftly: quick and immediate
+fragmentary: 파편의 (disconnected/incomplete)
+fragile: 깨지기 쉬운
+exorbitant: (price, demand) too much
+orbit: 궤도 (천체의)
+skeptical: 의심많은, 회의적인 (doubtful)
+ingenuity: 창의력 (quality of clever, original(참신한), or inventive)
+prosperity: 번성, 번영
+stockpile: 비축하다.
+pore: 구멍 (표면의 작은 구멍) 땀구멍
+repurcussion: 결과 (안좋은) consequence
+e.g) The repurcussion of her comment can be serious.
+karma: 인과응보
+landscape: 가로
+tenuous: 빈약한, 얇은, slender
+e.g.) tenuous link between interest rate and unemployment.
+e.g.) tenuous cloud
+unsophisticated: 섞인것 없는, 순박한, 순진한
+e.g.) unsophisticated SW, unsophisticated village
+manifestation: 징후
+e.g.) ... of global warming, ... of diabetes (당뇨병), ... of anxiety
+inhabit: 거주하다 (person, animal, group)
+ensuing: 뒤이은, 다음의 (선후, 인과)
+alternate: 번갈아 일어나다. 교체하다, 교대하다. (left, right), 하나씩 거른
+e.g.) attend on every other days
+      attend on alternate days
+      attend on every second days
+e.g) 오늘 말고는 항상 나와요 - attend on all other days
+subterfuge: 속임수, trickery, deception
+gratify: 만족시키다, 기쁘게 하다, satifsy
+e.g.) Are you satisfied? Gladiator
+gratitude: 감사, 팁을 줄때 하는말
+"Here's my gratitude."
+porter: 짐을 나르는 사람
+entail: 수반하다 (필연적으로, 필수적으로)
+e.g) the situation entails considerable risk.
+successively: 잇따라서
+successful: 성공적인
+succeed: 성공하다
+succeed to : 계승하다. e.g) succeed to a throne/business
+successor: 후계자
+spectrum: 범위, a set of colors
+e.g) spectrum of different opinions/positions (양극단)
+forestall: 미연에 방지하다.
+fore-: 미리, 앞에
+forefront: 최전선
+forehead: 이마
+foresight: 선견지명
+stall: 가로막다
+       질질끌다 (시간)-e.g) 
+       e.g.) 그가 나한테 빌린돈을 다음주에 갚겠다고 하지만, 내 생각엔 그저 질질끄는 것 같다.
+       e.g.) ...  he is just stalling.
+       가판대, 매대
+sporadically: 이따금식, 산발적으로 (정해진 주기없이)
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
 ### Voca (day29-30)
 
 + shortcoming: 부족
