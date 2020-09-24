@@ -2,6 +2,10 @@
 
 ### Voca (day11-15)
 
+## Session 4th: 09-23 3pm
+
+### Voca (day6-10)
+
 + vitality: 활력, 생동감
 + liveliness: 생동감, 명랑함
 + exert: 발휘하다. 노력하다.
@@ -38,12 +42,6 @@
 + devastate: 황폐하게 될 정도로 파괴하다. It's devastating. I feed devastated.
 + encapsulate: 캡슐에 담다. 요약하다.
 + demise: 죽음 The end of sth that was previously considered to be powerful. e.g.) business, industry, system.
-
-## Session 4th: 09-23 3pm
-
-### Voca (day6-10)
-
-
 
 ## Session 3th: 09-16 2pm
 
