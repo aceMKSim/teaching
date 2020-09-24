@@ -2,9 +2,48 @@
 
 ### Voca (day11-15)
 
++ vitality: 활력, 생동감
++ liveliness: 생동감, 명랑함
++ exert: 발휘하다. 노력하다.
++ loose: 느슨한, speak or express emotions in very free and uncontrolled way.
++ pliable: easily bent and influenced
++ wither: 시들다, decay, decline
++ pulpy: soft wet mass
++ 미분: differentiation
++ 적분: integration, integral
++ disintegrate: (화학적) 분해, 풍화
++ excrete: 배설하다
++ assault: 물리적 공격 e.g) air assault: 낙하산 부대
++ spawn: 알 (fish, frog)
++ sperm: 포유류의 정자
++ semen: 포유류의 정액
++ aggress: 침략하다
++ aggressive: 공격적인
++ implant: 삽입술, 심다, 치아등의 보철물
++ relay: 전달하다(말을), repeat.
++ dissolve: 용해하다
++ rudimentary: 기본적인 (basic principle)
++ amiss: 어긋난
++ forceful: 힘있는, 설득력있는
++ quantitative
++ binding contract
++ regulate: work in particular way
++ redundant: 중복된
++ flee: run away
++ ornament: 장식하다 (beautiful, not useful, no practical value)
++ minute: 1도를 60으로 나눈 단위
++ recompense: for loss or harm suffered.
++ immense: extremely good or big (in size)
++ assemble: 사람을 소집하다. component를 조립하다.
++ devastate: 황폐하게 될 정도로 파괴하다. It's devastating. I feed devastated.
++ encapsulate: 캡슐에 담다. 요약하다.
++ demise: 죽음 The end of sth that was previously considered to be powerful. e.g.) business, industry, system.
+
 ## Session 4th: 09-23 3pm
 
 ### Voca (day6-10)
+
+
 
 ## Session 3th: 09-16 2pm
 
