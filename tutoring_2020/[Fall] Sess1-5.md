@@ -1,6 +1,47 @@
-## Session 5th: 09-XX X:XXpm
+## Session 5th: 09-28 3pm
 
 ### Voca (day11-15)
+
++ lodge: 별장, 오두막 
++ solitary: 고독, 독방
++ ruling: 지배적인 
++ buffer: 완충기
++ pitfall: 함정 (저지르기 쉬운 오류)
++ destitue of~: ~이 전혀 없느
++ adjoining: 물리적으로 붙어있는 (touching distance)
++ spur: 자극하다 (욕구, 행동)
++ cavarly: 기병대
++ in earnest: 진지하고 성실한 (serious and sincere)
++ persevere: 인내하다.
++ carry on: 계속하다.
++ flawless: 결점이 없는
++ preoccupied: "강박"
++ tune: 일치, 조율 
++ tuning parameter
++ considerable: 고려할만한, 주목할만한
++ considerate: 배려심이 많은
++ conceive: 배다, 고안하다, 상상하다.
++ inconceivable: impossible to think of/imagine
++ decimal point: 소수점 (10진수의...)
++ deflect: to prevent something from being directed at you.
++ e.g) The president deflected criticism by announcing tax cut.
++ severe: bad, undesirable
++ share: 주식, 주식을 세는 단위, shareholder (주주)
++ chancy: 불확실한, 위험한
++ post-
++ post-mortem: 검시, 사후의, (일어난일에 대한) 분석, 논의등 (informal)
++ exploit: (부당한) 이용, 착취
+1. "Objection, your honor"
+2. 이의를 제기할때 사용하는 용어
+   + irrelevant
+   + argumentative: 억측의
+   + immaterial: 근거가 없는
+   + leading: 유도심문
+3. Sustained: 인정하다.
+
+
+
+
 
 ## Session 4th: 09-23 3pm
 
