@@ -1,7 +1,7 @@
 Quiz 1 partial credit
 + Prob 1: None
 + Prob 2: T/F 5pts, justification 5 pts
-+ Prob 3: Setting up an equation 5 pts, Solve out 5 pts
++ Prob 3: Setting up an equation 7 pts, Solve out 3 pts
 + Prob 4: None
 + Prob 5: None
 + Prob 6: None
