@@ -10,7 +10,7 @@
 + Prob 6: None
 + Prob 7: Maybe, depending on the solution quality.
 + Prob 8: Expressing, inverse matrix, solution graded separately.
-+ Prob 9: The first element is half, the second element is half.
++ Prob 9: The first element is half, and the second element is half.
 + Prob 10: None
 
 ### Quiz 2 partial credit
