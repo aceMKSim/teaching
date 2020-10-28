@@ -37,12 +37,9 @@
 
 ## Session 8th: 10-19 3:00pm
 
-
 ### Voca (day26-27)
 
-
-## Session 9th: 10-XX X:00pm
-
+## Session 9th: 10-29 2:00pm
 
 ### Voca (day28-30)
 
