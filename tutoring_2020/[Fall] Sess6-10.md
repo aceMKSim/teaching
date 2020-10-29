@@ -43,4 +43,27 @@
 
 ### Voca (day28-30)
 
++ assorted candy, cheese
++ retarded: 지체아
++ regular: 일정한, 정상의, 보통의
++ embrace opportunity/challenge
++ draw: 그리다
++ draw an attention: 이목을 끌다.
++ drawback: 결점
++ dissent <-> consent, consensus (합의)
++ framework: 뼈대
++ stipulate: 규정하다. 조약.
++ speculate: 추측하다.
++ concur: 동의하다.
++ disinter: 발굴하다.
++ hallmark: 각인을 찍다.
++ intricate: 뒤얽힌, 난해한
++ repetitious: 반복적인
++ luminious: 총명한
++ puzzling: 헷갈리는, 어려운
++ e.g.) You seem to be puzzled.
++ ephemeral: 임시의, 순식간의
++ crude: 조잡한, 익지 않은, 가공하지 않은, 원재료의
++ crude oil: 
+
 
