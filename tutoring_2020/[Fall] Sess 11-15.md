@@ -73,6 +73,10 @@ https://www.youtube.com/watch?v=OFPwDe22CoY&feature=youtu.be
 + intentionally: 고의로
 + resource: 자원
 
++ It is regarded as a theft that illegally reproduces copyright without permission.
+--> It is regarded as a theft if anyone reproduces copyrighted materials w/o permission. (w/ vs w/o)
+--> It is regarded as a theft that illegal reproduction takes place without permission.
+
 ### Concession speech
 
 https://youtu.be/v5Mba8ncBso
