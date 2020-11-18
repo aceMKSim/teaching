@@ -111,6 +111,40 @@ https://www.youtube.com/watch?v=OFPwDe22CoY&feature=youtu.be
 
 https://youtu.be/v5Mba8ncBso
 
+## Session 12th: 11-18 2:00pm-4:00pm
 
+### Voca (day7-12)
+
++ autonomous car, self-driving car.
++ appreciate: 가치를 높게 평가하다.
++ rigidness: 경도 (hardness)
++ amend: 고치다
++ superintend: 관리하다
++ superintendent: 관리자
++ renounce: 포기하다. (공식적으로)
++ irrevocably: 돌이킬수 없는 (irreversible)
++ inclination: 기울기, 경향
++ I am inclined to eat burger.
++ pronouncement (official announcement)
++ foreboding: 불길한 예감
++ goodness: 선량
++ paradox: 역설
++ obtainable vs attainable (achievable, accomplishable)
++ fragmentation: 분열
++ disruption: 방해, 붕괴, 파멸
++ economic downturn 경기 하강 국면
++ economic recession: 경기 침체기
++ preclude: 배제하다, 제외하다.
++ spearhead: 창끝, 선두에서다 (in attack or movement) 
++ resolute: determined
++ key: (악곡의) 조
++ lag: 지연 (시간적인 지연) -->
++ eclectic: various source/style
++ deemed as~, regarded as~: ~로 여겨진다.
++ unwieldly: 크거나 무거워서 다루기 힘든
++ intentionally: 고의로
++ resource: 자원
+
+## Session 13th: 11-25 2:00pm-4:00pm
 
 
