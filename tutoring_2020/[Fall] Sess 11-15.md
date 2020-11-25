@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=OFPwDe22CoY&feature=youtu.be
 
 ## Session 12th: 11-18 2:00pm-4:00pm
 
-### Voca (day7-12)
+### Voca (day 7-12)
 
 + autonomous car, self-driving car.
 + appreciate: 가치를 높게 평가하다.
@@ -83,4 +83,72 @@ https://youtu.be/v5Mba8ncBso
 
 ## Session 13th: 11-25 2:00pm-4:00pm
 
+### Voca (day 13-18)
 
++ scorn: 경멸하다. 경멸
++ surge: 파동, 급상승
++ prime: 초기, 제일, 청춘, 전성기
++ prime minister: 수상
++ tangible/intangible
++ concrete: clear, certain, real, existing.
++ belittle: 얕보다.
++ with respect to~: ~에 관해서 (w.r.t. or wrt)
++ with water: w/ water
++ without water: w/o water
++ take derivative with respect to x: x에 관해서 미분하다.
++ constallation: 별자리
++ allotment: 배급, 할당
++ surge: 갑작스런 증가
++ rise and fall: 흥망성쇠
++ archive: 공식기록화 하다
++ archetypal: 전형적인, original, "original that has been imitated"
++ favor: approval, 호의 "Could you do me a favor?"
++ bountifully (abudantly): 풍부한
++ bounty: reward, 현상금.
++ saturate: 흠뻑 적시다.
++ saturated: 포화
++ a (un)saturated fat acid: (불)포화지방산
++ tolerance: 참을성, 관대함
++ impetus: 자극, 운동량
++ fabricate
+   + 만들어내다. (fabric)
+   + fabricated story - 날조된 이야기
+   + fabricated - typically with deceitful intent
++ surge protector: 멀티탭
++ sup-press
+
+### Writing
+
++ It is the most (important) concern many developing countries to enhance the quality of water. 
++ Dozens of developing countries are (highly) mostly interested in (their) water quality.
++ Many developing countries has water quality issue as their top prioirity.
++ Water quality is the main concern in many developing countries.
++ The water quality is the most important interest in developing countries.
++ Water quality is of critical concern for many developing countries.
++ Water quality is the overriding concern in many developing countries.
+
++ Given that dogs are descendants of wolves, it is not a surprise (surprising) that both species look similar to each other. (alike)
++ It is not surprising that dogs look similar (to wolves) when you consider (considering) that dogs are descendant from (of) wolves.
++ Given that dogs are descendants of wolves, it is no wonder that dogs and wolves look alike.
++ No wonder that wolves look alike dogs given that dogs are descendants of wolves.
+
++ Decreasing (prices) in real estate(s) because of declining in demand is a cause for concern.
++ **Falling real estate prices due to decreasing demand causes concern.**
++ Shrinking demand is the cause of concern in price drops of real estate markets.
++ Price reduction in real estate properties due to decreased demand is the cause of worries.
+
++ Some of the refugees claim that the current situation is worse than before.
++ Some refugees claim that the current situation is worse than the previous.
++ Some refugees claim that the situation is worse than before.
++ Some refugees maintain that current situation is far worse than before.
++ **Some refugees maintain that their present situation is worse than before.**
+
++ The local resident(s) can dispose of their Christmas tree(s) through the city recycling center.
++ Local residents are able to discard their Christmas trees by *leaving them* at the city's recycling center.
++ Local residents can throw away their Christmas trees by (placing them at the) city's recycling center.
++ Local residents may dispose of (their) X-mas trees *(by dropping them off at)* the city's recycling center.
+
++ The community members gathered sources to buy parkland.
++ The community members purchased the parkland by *assembling (contributing) their capital resources.*
++ Community members bought the land for park by gathering resources.
++ Community members collected their resouces to purchase the land for the community park.
