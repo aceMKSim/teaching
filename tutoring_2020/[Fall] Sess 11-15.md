@@ -164,3 +164,26 @@ https://youtu.be/v5Mba8ncBso
       + The community members purchased the parkland by *assembling (contributing) their capital resources.*
       + Community members bought the land for park by gathering resources.
       + Community members collected their resouces to purchase the land for the community park.
+
+## Session 14th: 12-02 2:00pm-4:00pm
+
+### Voca (day 19-24)
+
++ sacred, divine: 신성한
++ in this manner, in this fashion.
++ cleft: 갈라진, 쪼개진, 틈, 분열
++ shrivel: 수축하다.
++ (labor) union: 노동조합
++ authentic vs fake
++ rekindle
++ kindle: 빛내다. 태우다. 불씨
++ subsequence vs consequence
++ perpetual: 끊임없이, 부단히
++ be found wanting = to not be good enough
++ terminal: 종점, 마지막의
++ bus stop
++ bus station
++ practice
++ partake = participate + take
+
+
