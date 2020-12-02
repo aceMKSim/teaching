@@ -186,4 +186,37 @@ https://youtu.be/v5Mba8ncBso
 + practice
 + partake = participate + take
 
+### Writing
+
++ day 19
+    + Cell phones have been used for dual-use after adding the camera function.
+    + (dual-use -> dual purpose)(functionality)
+    + After added camera funtion -> With added camera functionality
+    + **After the addition of the camera feature**, many cellular phones began to serve a dual purpose
+    + began to be used vs began to serve
+
++ day 22
+    + At the end of the year
+    + Many travelers wander the streets to meet their families when time goes by the end of the year.
+    + when time goes by (reaches) the end of the year.
+    + the end of the year and the start (beginning) of the next year.
+    
++ day 23
+    + Longest lasting -> The most long-lasting
+    + Longest relationship
+    + The relationship that lasts longer than any other 
+    + interest (이익)
+    + conflict of interest
+
++ day 24
+    + Abusing alcohol -> alchole abuse
+    + prolonged alcohol abuse
+    + sensory impairment
+    + overuse of alcohol
+    + overdose: 약물의 남용
+    + cognitive impairment: 인지 장애
+    
+
+
+
 
