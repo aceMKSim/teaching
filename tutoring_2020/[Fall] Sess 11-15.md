@@ -216,6 +216,45 @@ https://youtu.be/v5Mba8ncBso
     + overdose: 약물의 남용
     + cognitive impairment: 인지 장애
     
+## Session 15th: 12-24 10:00am
+
+### Voca (day 25-30)
+
++ disentegrate vs disentangle
++ integrate <-> differentiate (미분)
++ 미분 - linear approximation
++ concede 항복하다
++ surplus(흑자) <-> deficit(적자)
++ 소비자잉여 = consumer surplus
++ 생산자잉여 = supplier's surplus
++ 경제적잉여 = economic surplus
++ consequent = 시간 + 인과
++ pose a question: 어려운 질문으로 괴롭히다.
++ equivalent
+   + A라는 문제와 B라는 문제가 equivalent하다.
+   + -> 답이 같은 경우
++ In retrospect "돌이켜보면"
++ re-dundant 중복되는 겹치는
++ remnant
++ lay-off: 정리해고 "cut back"
++ projection
+    + 정사영
+    + projected to be 1,000
++ time-series 시계열
++ despondent: depressed (no hope)(no enthusiasm)
++ mislead: 잘못 이끄는, 오해의 소지가 있는
++ misleading evidence
++ gobble: eat too fast (허겁지겁 먹다)
++ ingenious: 영리한 재간있는, (clever)
++ intermingled: mixed together
++ onset: 시작
++ re-iterate 다시 되풀이 하다.
++ iterate 반복하다
+   + recursive: self-calling f(n)=f(n-1)+f(n-2)
+   + for-loop
+   + while-loop
++ fifty-fifty
+
 
 
 
