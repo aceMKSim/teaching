@@ -7,6 +7,10 @@
     + 매년 3월과 9월에 계정이 만료됩니다. 그 때는 다시 가입을 하면 됩니다. (위의 링크가 만료되었다면 연락 부탁드립니다.)
 
 + 추천 course
+    + [Intro to Deep Learning] https://learn.datacamp.com/courses/introduction-to-deep-learning-with-keras
+    + [Intro to R] https://learn.datacamp.com/courses/free-introduction-to-r
+    + [Intermediate R] https://learn.datacamp.com/courses/intermediate-r
+    + [Intro to tidyverse] https://learn.datacamp.com/courses/introduction-to-the-tidyverse
     + Intro to R/Intermediate R
     + Intro to Python/Intermediate Python
     + Supervise learning
