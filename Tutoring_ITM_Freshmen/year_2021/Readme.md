@@ -16,8 +16,10 @@
 ## Sessions
 
 + Session 1: 3/18(목) 12:30
-+ Session 2: 3/22(월) 12:00 - day 1 까지 
-+ Session 3: 3/25(목) 12:30
++ Session 2: 3/22(월) 12:00 - day 1  
++ Session 3: 3/25(목) 12:30 - day 2 
++ Session 4: 3/29(월) 12:00 - day 3-4
++ Session 5: 
 
 ## Zoom Link
 
