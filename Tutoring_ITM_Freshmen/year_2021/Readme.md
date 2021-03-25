@@ -27,4 +27,9 @@
 + URL (비밀번호 입력 필요): https://seoultech.zoom.us/j/6490221641
 + 비밀번호: 355785
 
+## Socrative
+
++ https://b.socrative.com › MKSIM
++ (google에서 "socrative student"로 검색)
+
 ## Session 1 - 3/18 목 12:30pm
