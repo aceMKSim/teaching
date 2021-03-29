@@ -86,3 +86,12 @@
 + sedentary
 + serotorin: 행복하고 평온한 감정을 느끼게 하는 신경전달 물질 
 + serendipity: 우연한데 lucky한 발견
+
+## Session 4 - 3/29(월) 12:00
+
+### Hackers day 3-4
+
++ terminology: 용어
++ term: 
++ compelling evidence
++ 
