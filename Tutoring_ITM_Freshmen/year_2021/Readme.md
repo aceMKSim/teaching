@@ -19,7 +19,8 @@
 + Session 2: 3/22(월) 12:00 - day 1  
 + Session 3: 3/25(목) 12:30 - day 2 
 + Session 4: 3/29(월) 12:00 - day 3-4
-+ Session 5: 
++ Session 5: 4/1(목) 12:30 - day 5-6
++ **Session 6: 4/8(목) 12:30 - day 7-9**
 
 ## Zoom Link
 
@@ -100,5 +101,8 @@
 ## Session 5 - 4/1(목) 12:30
 
 ### Hackers day 5-6
+
++ universal - widely acceptable in both temporal and spatial perspectives.
++ He is in contention: 우승권에 있다.
 
 
