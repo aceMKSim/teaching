@@ -94,4 +94,11 @@
 + terminology: 용어
 + term: 
 + compelling evidence
-+ 
+
+### Optimization and Human factor engineering
+
+## Session 5 - 4/1(목) 12:30
+
+### Hackers day 5-6
+
+
