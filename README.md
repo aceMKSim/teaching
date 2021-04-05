@@ -33,3 +33,26 @@
 > 세계와 존재양식으로 결부되어 있는 학생들에게 있어서 학습의 과정은 전혀 다른 성질을 가지고 있다.  무엇보다도 그들은 일련의 강의에, 비록 그것이 첫 강의라 할지라도 백지상태로는 참석하기 않는다.  그들은 그 강의에서 다루어질 문제를 미리 짐작하고 있으므로, 그들대로의 어떤 질문과 문제를 마음속에 간직한다.  그들은 강의의 주제에 완전히 몰두하게 되며, 또 흥미를 느낀다.
 
 > 그들은 스스로가 말과 개념의 수동적인 저장소가 되는 대신에 귀를 기울이고 ‘듣고’, 그리고 이것이 가장 중요한 것이지만, 능동적이고 생산적인 방법으로 ‘받아들이고’ ‘반응한다’.  그들이 듣는 것은 그들 자신의 사고과정을 자극한다.  새로운 의문, 새로운 개념, 새로운 전망이 그들 마음속에 일어난다.  존재양식을 가진 학생들의 학습과정은 살아있는 과정이다.  그들은 관심을 가지고 귀를 기울이며, 교수가 강의하는 것을 들으며, 자발적으로 그들이 듣는 것에 응답하면서 생명을 얻는다.  그들은 집으로 가져가서 암기할 수 있는 지식을 습득하는 것은 아니다.  학생 개개인은 강의를 통하여 영향을 받고 변화하는 것이다.  강의를 들은 후에는, 강의를 듣기 전의 그들과는 다른 인간이 된다.  물론 이러한 학습양식은 강의가 적극적인 내용을 제공했을 때 비로소 가능하다.  존재양식에서 보면 공허한 이야기는 아무런 반응도 얻을 수 없으며, 그러한 경우 존재양식을 가지고 있는 학생들은 전혀 귀를 기울이지 않고 그들 자신의 사고과정에만 전념하는 것이 가장 좋은 태도임을 알고 있다.
+
+## How can you tell if someone has a high IQ based on their behavior? - Brendan Kelly
+
+https://www.quora.com/How-can-you-tell-if-someone-has-a-high-IQ-based-on-their-behavior
+
+> usually open to discussing dispassionately, ideas that differ from their own and are slow to reach certainty on an issue.
+
+> usually seeking information that disconfirms what they believe, rather than attempting to confirm their current beliefs.
+
+> usually more interested in talking about ideas and concepts than gossiping about other people.
+
+> willing to challenge beliefs commonly accepted by the group (tribe) to which they belong.
+
+> likely to mistrust dogma and social norms, preferring to set their own standards of behavior and follow their own reasoned protocols.
+
+> seldom aggressive in attempting to persuade others to their point of view, but passionate about the goals they wish to achieve.
+
+> usually draw insightful inferences from their observations, identifying the essential elements in a clutter of information.
+
+> interested in a very wide range of topics spanning the natural and social sciences as well the arts and almost anything of an academic nature. Their reading is scholarly, and they have little interest in tabloids.
+
+> acutely aware of the limits of their knowledge.
+
