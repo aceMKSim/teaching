@@ -105,4 +105,50 @@
 + universal - widely acceptable in both temporal and spatial perspectives.
 + He is in contention: 우승권에 있다.
 
+## Session 6 - 4/8 (목) 12:30
 
+### Hackers day 7-9
+
++ presume: 미리 추정하다.
++ presumable, presumably
++ guess: 일반적인 광범위한
++ conjecture: 추측 (근거는 미약하지만 그럴것이라고 누군가 생각)
++ estimate: 추정 (어떤 근거를 가지고 생성)
++ A as well as B: new info (A)
++ hairline, hairthin
++ equi+vocal
+    + equ: equal
+    + vocal: 
++ various
++ assemble: multiple element를 모으다
++ assembly: 의회
++ anar-chy vs monarchy (왕정)
++ broadly speaking
++ rough
+   + 거친, 험난한 rough years
+   + 잘 정돈되지 않은 rough idea
+   + 대략 (대충) roughly, 5 pm?
++ derive: 유도하다.
+   + Ex) 근의 공식을 유도하다.
++ deprive: 박탈하다.
+   + Ex) deprived sleep
++ ir-revers-ible
+   + 낙장불입
++ ir-regular
++ ir-responsible
++ in-consistent: 모순된
++ potent: 힘
++ potential: 잠재력, 잠재력 있는
++ im-potent: 불임 (남) 
++ in-fertile: 불임 (여)
+
++ noxious: 해로운
++ ob-noxious: 불쾌한
++ countable
++ countless
++ uncountable
++ constrict: 수축 (혈관등)
+
++ crave
++ long
++ yearn
