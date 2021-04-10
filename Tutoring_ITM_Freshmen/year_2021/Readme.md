@@ -20,7 +20,9 @@
 + Session 3: 3/25(목) 12:30 - day 2 
 + Session 4: 3/29(월) 12:00 - day 3-4
 + Session 5: 4/1(목) 12:30 - day 5-6
-+ **Session 6: 4/8(목) 12:30 - day 7-9**
++ Session 6: 4/8(목) 12:30 - day 7-9
++ Session 7: 4/11(월) 12:00 - day 10-11
++ 
 
 ## Zoom Link
 
