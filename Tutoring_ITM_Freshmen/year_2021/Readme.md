@@ -21,8 +21,15 @@
 + Session 4: 3/29(월) 12:00 - day 3-4
 + Session 5: 4/1(목) 12:30 - day 5-6
 + Session 6: 4/8(목) 12:30 - day 7-9
-+ Session 7: 4/11(월) 12:00 - day 10-11
-+ 
++ Session 7: 4/12(월) 12:00 - day 10-11
++ Session 8: 4/26(월) 13:30 - day 12-13
++ Session 9: 5/6(목) 12:30 - 
++ Session 10: 5/10(월) 12:00
++ Session 11: 5/13(목) 12:30
++ Session 12: 5/17(월) 12:00
++ Session 13: 5/20(목) 12:30
++ Session 14: 5/24(월) 12:00 
++ Session 15: 5/27(목) 12:30
 
 ## Zoom Link
 
