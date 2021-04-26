@@ -24,7 +24,7 @@
 + Session 7: 4/12(월) 12:00 - day 10-11
 + Session 8: 4/26(월) 13:30 - day 12-13
 + 
-+ Session 9: 5/6(목) 12:30 -
++ Session 9: 5/6(목) 12:30 - day 14-16
 +  
 + Session 10: 5/10(월) 13:30
 + Session 11: 5/13(목) 12:30
@@ -72,8 +72,42 @@
 + transmission: 동력전달장치
 + random vs randomness
 + obtainable, attainable, achievable
-+ 
-
++ despite: ~에도 불구하고
++ in spite of: ~에도 불구하고
++ adorn: 꾸미다, 장식하다
++ ornament: 장식
++ loom: 불길한 징조
++ trivial: 사소한, 보잘것 없는
++ frivolous: 경박한, 천한
++ innumerable: 셀수없이 많은 (count-less) vs count-able
++ cognitive: 인지의, 인식의
++ deliberation: 숙고, 신중, *고의*
++ conference: 회의, 협의, *모의*
++ in-between: ~ 사이에 낀
++ splendid: 훌륭한, 멋진
++ Have a splendid day!
++ sacred: 신성한 
++ holy: 신성한 (종교적)
++ job (먹고 살려고 하는 것), 
++ carrier (직무와 연관된)
++ vocation (천직)
++ out-lying: 동떨어진
++ outlier: 이상치, 일반적인 패턴에서 멀리 떨어진 값
++ A. Einstein - "Excellence is doing a common thing in an uncommon way."
++ A. Einsten - "Two things are infinite; one is universe and the other is human's stupidity. I am not sure of the former though."
++ simultaneous: 동시의
++ *vera*cious: 진실한
++ veritas: (라틴어) 진리
++ cooperative: 협력적인
++ co-operate: 협력하다
++ company: 동반자
++ ingenious: 영리한
++ variable: 변하는
++ invariable: 변하지 않는
++ permanent: 영원한
++ eternal: 영원한 (세상 끝날때 까지)
++ candid: 솔직히
++ candidate: 후보
 
 ## Session 6 - 4/8 (목) 12:30
 
