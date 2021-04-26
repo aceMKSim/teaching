@@ -23,8 +23,10 @@
 + Session 6: 4/8(목) 12:30 - day 7-9
 + Session 7: 4/12(월) 12:00 - day 10-11
 + Session 8: 4/26(월) 13:30 - day 12-13
-+ Session 9: 5/6(목) 12:30 - 
-+ Session 10: 5/10(월) 12:00
++ 
++ Session 9: 5/6(목) 12:30 -
++  
++ Session 10: 5/10(월) 13:30
 + Session 11: 5/13(목) 12:30
 + Session 12: 5/17(월) 12:00
 + Session 13: 5/20(목) 12:30
@@ -41,6 +43,37 @@
 
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
+
+## Session 8 - 4/26 (월) 13:30
+
+### Hackers day 12-13
+
++ terrain: 지형
++ favor: 호의
++ 부탁하는 법
+    + (Please) Do me a favor.
+    + Could you do me a favor?
+    + May I ask you a favor?  
+    + You are my angel. 
++ favorite place
++ flavor: 맛 (혀에서 느껴지는 아이스크림)(음식)
++ taste: 맛, 기호, 취향 (사람, 주관적인...)
++ override
++ method overriding
++ overwhelming: 압도적인
++ breeding: 종, 가계
++ preposterous: 터무니없는
++ poster: 양육하다
++ prosper: 번성하다.
++ prosperous: 번성하는
++ cross the t and dot the i
++ frighten: 겁을 주다
++ transmit: 전하다, 전파하다.
++ transmission: 동력전달장치
++ random vs randomness
++ obtainable, attainable, achievable
++ 
+
 
 ## Session 6 - 4/8 (목) 12:30
 
