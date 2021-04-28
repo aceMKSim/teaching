@@ -1,0 +1,585 @@
+---
+title: "L21. `gganimate`"
+author: "Sim, Min Kyu, Ph.D., `mksim@seoultech.ac.kr`"
+output: 
+  ioslides_presentation:
+    logo: myRmdBeamerStyle/logo_ds.png
+    css: styles.css
+    smaller: true
+    # incremental: true
+    # transition: slower
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+options(scipen=999)
+```
+
+## `gganimate`
+
++ 애니메이션의 목적 
+    + 시간의 변화를 표현
+    + 이산 변수의 값의 변화를 표현 
+
++ `ggplot` 객체를 이용하여 애니메이션 객체 제작 
+    + 최근에 CRAN에 등장했고, 발전 가능성이 높은 패키지 
+    + 공식 페이지 https://gganimate.com/
+    + `anim_save()`로 `gif` 파일 제작 가능 (`ggsave()`와 유사) 
+
+## 
+
++ Animation을 만드는 함수 
+    + `transition_time()` - 시간의 변화에 따른 데이터의 변화를 표현 
+    + `transition_states()` - 이산 변수 값의 변화에 따른 데이터의 변화를 표현 
+    + `transition_reveal()` 
+
++ References
+    + https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/
+    + https://cran.r-project.org/web/packages/gganimate/vignettes/gganimate.html
+
+```{r}
+library(tidyverse)
+library(plotly)
+library(DT)
+library(gganimate)
+library(gifski)
+```
+
+##
+
++ Part I. `transition_time()`
++ Part II. `transition_states()`
++ Part III. `transition_reveal()`
+
+# Part I. `transition_time()`
+
+## `gapminder` 데이터셋 
+
+```{r}
+library(gapminder)
+datatable(gapminder)
+```
+
+## A sensible figure for a single time
+
+```{r, fig.height=3.7}
+fig1 <-
+### <b>
+  gapminder %>% filter(year==2007) %>% 
+### </b>  
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = country)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_color_viridis_d() + scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy")
+fig1
+```
+
+## Step 1. `facet_wrap()`으로 애니메이션 구상
+
++ faceting 으로 모든 시간에 대한 데이터를 포함할 수 있음 
+
+```{r}
+fig2 <-
+### <b>
+  gapminder %>% 
+### </b>  
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = country)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_color_viridis_d() + scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy") + 
+### <b>
+  facet_wrap(~ year)
+### </b>
+```
+
++ (아래는 바로 전 페이지의 코드)
+
+```{r, eval=FALSE}
+fig1 <-
+### <b>
+  gapminder %>% filter(year==2007) %>% 
+### </b>  
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = country)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_color_viridis_d() + scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy")
+```
+
+##
+
+```{r}
+fig2
+```
+
++ 애니메이션은 위의 facet들을 interpolate하여 한 화면에 보여주는 것
+
+## Step 2. An insensible static figure
+
++ 앞의 `fig2`에서 `facet_wrap(~ year)`을 빼서 insensible한 static `ggplot` 객체를 생성 
+
+```{r}
+fig_static <-
+  gapminder %>% 
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = country)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_color_viridis_d() + scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy")
+```
+
++ (아래는 바로 전 페이지의 코드)
+
+```{r}
+fig2 <-
+  gapminder %>% 
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = country)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_color_viridis_d() + scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy") + 
+### <b>
+  facet_wrap(~ year)
+### </b>
+```
+
+##
+
+```{r}
+fig_static
+```
+
++ `fig_static`은 그야말로 *insensible* 하지만...
+
+## Step 3. 애니메이션 완성 
+
+```{r, cache=TRUE}
+fig_dynamic <- fig_static + 
+### <b>
+  transition_time(year) +
+### </b>
+  labs(title = "Year: {frame_time}")
+```
+
+```{r}
+class(fig_dynamic)
+```
+
++ `facet_wrap()` 대신에 `transition_time()`을 사용한다고 이해하면 쉬움
+
+```{r, eval=FALSE}
+anim_save(filename = "anim_gapminder.gif", 
+          animation = fig_dynamic,
+          renderer = gifski_renderer())
+```
+
++ 708kb 크기의 gif 파일이 저장됨
++ 화질 개선 등의 부분에서 빠른 발전이 예상되는 패키지 
+
+## 
+
+```{r, fig.height=5, fig.width=9, fig.align='center'}
+include_graphics("anim_gapminder.gif")
+```
+
+## 한개 더 만들어 봅시다. 
+
+```{r}
+library(tidytext)
+# Filter G7 countries
+G7 <- gapminder %>%  
+  filter(
+    country %in% c("Canada", "France", "Germany", "Italy", 
+                   "Japan", "United Kingdom", "United States"))
+```
+
++ Step 1. `facet_wrap()`으로 애니메이션 구상
+
+```{r}
+fig_facet <- 
+  G7 %>% 
+  ggplot(aes(x = reorder(country, gdpPercap), y = gdpPercap, fill = country)) +
+  geom_col() + 
+  coord_flip() + 
+  labs(x = NULL, y = "GDP per capita") + 
+  theme(legend.position = "none") + 
+### <b>
+  facet_wrap(~ year)
+### </b>
+```
+
+##
+
+```{r}
+fig_facet
+```
+
+##
+
++ Step 2. `fig_static` 만들기 
+
+```{r}
+fig_static <- 
+  G7 %>% 
+  ggplot(aes(x = reorder(country, gdpPercap), y = gdpPercap, fill = country)) +
+  geom_col() + 
+  coord_flip() + 
+  labs(x = NULL, y = "GDP per capita") +
+  theme(legend.position = "none")
+```
+
++ Step 3. `fig_dynamic` 만들고 저장 
+
+```{r, eval=FALSE}
+fig_dynamic <- 
+  fig_static + transition_time(year) + labs(title = "Year: {frame_time}")
+
+anim_save(filename = "anim_gdp.gif", 
+          animation = fig_dynamic,
+          renderer = gifski_renderer())
+```
+
+##
+
+```{r}
+include_graphics("anim_gdp.gif")
+```
+
+# Part II. `transition_states()`
+
+## `transition_states()`
+
++ 이산 변수의 값의 차이에 따라서 데이터가 어떻게 변화하는 지를 표현
++ `facet_wrap()`의 각 facet들이 번갈아가면서 보여짐 
+
+### Approach
+
++ `transition_time()`과 비슷하게 아래의 3단계 접근을 사용 
+    + Step 1. `facet_wrap()`으로 애니메이션 구상
+    + Step 2. `fig_static` 만들기 
+    + Step 3. `fig_dynamic` 만들고 저장 
+
+##
+
+### Step 1. `facet_wrap()`으로 애니메이션 구상
+
+```{r}
+fig1 <-
+  gapminder %>% filter(year==2007) %>% 
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent)) +
+  geom_point(show.legend = FALSE) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy") +
+### <b>
+  facet_wrap(~ continent)
+### </b>
+```
+
+##
+
+```{r}
+fig1
+```
+
+## 
+
++ 위의 순서대로 애니메이션이 생성되는 것 보다 평균수명 순서대로 표현되게 하기 위하여 아래 코드 추가
+
+```{r}
+gapminder$continent <- factor(gapminder$continent, 
+                              levels = c("Africa", "Asia", "Americas", "Europe", "Oceania"))
+```
+
++ 그리고, 다시 만들기
+
+```{r}
+fig1 <-
+  gapminder %>% filter(year==2007) %>% 
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent)) +
+  geom_point(show.legend = FALSE) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy") +
+### <b>
+  facet_wrap(~ continent)
+### </b>
+```
+
+##
+
+```{r}
+fig1
+```
+
+##
+
+### Step 2. `fig_static` 만들기 
+
+```{r}
+fig_static <-
+  gapminder %>% filter(year==2007) %>% 
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent)) +
+  geom_point(show.legend = FALSE) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy")
+```
+
+### Step 3. `fig_dynamic` 만들고 저장 
+
+```{r, eval=FALSE}
+### <b>
+fig_dynamic <- 
+  fig_static + transition_states(continent) + labs(title = "Now Showing {closest_state}")
+### </b>
+
+anim_save(filename = "anim_continent.gif", 
+          animation = fig_dynamic,
+          renderer = gifski_renderer())
+```
+
++ The following is the previous code for `transition_time()`
+
+```{r, eval=FALSE}
+### <b>
+fig_dynamic <- 
+  fig_static + transition_time(year) + labs(title = "Year: {frame_time}")
+### </b>
+```
+
+##
+
+```{r}
+include_graphics("anim_continent.gif")
+```
+
+> Takeaway: `facet_wrap()`만 보면 animation을 생각해 보세요. ~~노력에 비해서 훨씬 있어보임.~~  
+
+## 한 개 더!
+
+### Step 2. `fig_static` 만들기 
+
+```{r}
+fig_static <- 
+### <b>
+  gapminder %>% filter(year %in% c(1957, 1982, 2007)) %>% 
+### </b>
+  ggplot(aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent)) +
+  geom_point(show.legend = FALSE) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() + labs(x = "GDP per capita", y = "Life expectancy") +
+### <b>
+  facet_wrap(~ year)
+### </b>
+```
+
+##
+
+```{r}
+fig_static
+```
+
+##
+
+### Step 3. `fig_dynamic` 만들고 저장 
+
+```{r, eval=FALSE}
+fig_dynamic <- 
+  fig_static + transition_states(continent) + labs(title = "Now Showing {closest_state}")
+
+anim_save(filename = "anim_continent2.gif", 
+          animation = fig_dynamic,
+          renderer = gifski_renderer(),
+### <b>
+          height = 350, width = 1200)
+### </b>
+```
+
+```{r, out.width = "100%", out.height = "20%"}
+include_graphics("anim_continent2.gif")
+```
+
+# Part III. `transition_reveal()`
+
+## `transition_reveal()`
+
++ 그래프의 모습을 단계적으로 **공개**하는 방식으로 애니메이션 제작 
++ 주로 X축에 해당하는 변수를 사용하는 것으로 생각할 수 있음
++ (지금은 이것 밖에 안 떠오르는데 아이디어 있으면 공유 부탁드립니다)
+
+##
+
+### Step 1. `fig_static` 만들기 
+
+```{r}
+fig_static <- gapminder %>% 
+  group_by(year, continent) %>% 
+  summarise(lifeExp = mean(lifeExp)) %>%
+  ggplot(aes(x=year, y=lifeExp, group = continent, color = continent)) + geom_path()
+```
+
+```{r, out.width = "70%", out.height = "30%", fig.align='center'}
+fig_static
+```
+
+##
+
+### Step 2. `fig_dynamic` 만들어서 저장 
+
+```{r, eval=FALSE}
+### <b>
+fig_dynamic <- fig_static + transition_reveal(year) + geom_point()
+### </b>
+anim_save(filename = "anim_year.gif", animation = fig_dynamic,
+          renderer = gifski_renderer(), height = 300, width = 500)
+```
+
+```{r, out.width = "70%", out.height = "30%", fig.align='center'}
+include_graphics("anim_year.gif")
+```
+
+## 한개더!
+
+### Step 1. `fig_static` 만들기 
+
+```{r, out.width = "50%", out.height = "30%", fig.align='center'}
+gapminder$continent <- factor(gapminder$continent, 
+                              levels = c("Africa", "Americas", "Asia", "Europe", "Oceania"))
+fig_static <- gapminder %>% 
+  group_by(year, continent) %>% 
+  summarise(gdpPercap = mean(gdpPercap)) %>% 
+  ggplot(aes(x = factor(year), y = gdpPercap)) + 
+  geom_col(aes(fill = continent), position = "dodge") + 
+  theme(axis.title.x=element_blank())
+fig_static
+```
+
+##
+
+### Step 2. `fig_dynamic` 만들기 
+
+```{r, eval=FALSE}
+### <b>
+fig_dynamic <- fig_static + transition_reveal(year)
+### </b>
+anim_save(filename = "anim_year2.gif", animation = fig_dynamic,
+          renderer = gifski_renderer(), height = 300, width = 500)
+```
+
+```{r, out.width = "80%", out.height = "50%", fig.align='center'}
+include_graphics("anim_year2.gif")
+```
+
+<!-- # 지도시각화 예제 `L16. p48` -->
+
+<!-- ## Recap -->
+
+<!-- ```{r} -->
+<!-- # 0. Prepare `kr_latlon` -->
+<!-- kr_latlon <- read_csv("data/kr_latlon.csv",  -->
+<!--                       locale = locale('ko', encoding='euc-kr')) -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- # 1. Prepare `seoul_map_df` -->
+<!-- library(raster) -->
+<!-- kr_map_lvl2 <- getData('GADM', country='kor', level=2) -->
+<!-- seoul_map_lvl2 <- kr_map_lvl2[kr_map_lvl2$NAME_1 == "Seoul",] -->
+<!-- seoul_map_df <- fortify(seoul_map_lvl2) -->
+<!-- seoul_map_df <- seoul_map_df %>% left_join( -->
+<!--   seoul_map_lvl2@data %>% # retrieve ID from @polygon -->
+<!--     mutate(id = sapply(seoul_map_lvl2@polygons, function(x) x@ID)) %>% -->
+<!--     separate(NL_NAME_2, into= c("district", "dummy1"), sep="[|]") %>% -->
+<!--     dplyr::select(-dummy1) -->
+<!-- ) -->
+<!-- ``` -->
+
+<!-- ```{r, warning=FALSE} -->
+<!-- # 2. Prepare `seoul_pop` for all years -->
+<!-- seoul_pop <- read_csv("data/seoul_pop_tidy.csv",  -->
+<!--                       locale = locale('ko', encoding='euc-kr')) -->
+<!-- seoul_pop$district <- str_trim(seoul_pop$district) -->
+<!-- seoul_pop <- seoul_pop %>% -->
+<!--   filter(category == "총인구 (명)") %>% -->
+<!--   dplyr::select(year, district, pop) -->
+<!-- ``` -->
+
+<!-- ## -->
+
+<!-- ```{r} -->
+<!-- # 3. Let `seoul_map_df` include `seoul_pop` -->
+<!-- seoul_map_df <- seoul_map_df %>% left_join(seoul_pop) -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- # 4. Finally -->
+<!-- fig_all_year <- ggplot(seoul_map_df %>% arrange(group, order)) + -->
+<!--   geom_polygon(aes(x=long, y=lat, group=group, fill = pop)) + -->
+<!--   theme_void() + scale_fill_gradient(low="green", high="red") + -->
+<!--   geom_text(data = left_join(seoul_pop, kr_latlon, by = c("district"="area")), -->
+<!--             aes(x = lon, y = lat, label = paste0(district, ": ", round(pop/10^4,1), "만")), -->
+<!--             size = 3, color = "blue") + -->
+<!-- ### <b> -->
+<!--   facet_wrap(~year) -->
+<!-- ### </b> -->
+<!-- ``` -->
+
+<!-- ## -->
+
+<!-- ```{r} -->
+<!-- fig_all_year -->
+<!-- ``` -->
+
+<!-- ## -->
+
+<!-- ### `fig_static` 만들기  -->
+
+<!-- ```{r} -->
+<!-- fig_static <- ggplot(seoul_map_df %>% arrange(group, order)) + -->
+<!--   geom_polygon(aes(x=long, y=lat, group=group, fill = pop)) + -->
+<!--   theme_void() + scale_fill_gradient(low="green", high="red") + -->
+<!--   geom_text(data = left_join(seoul_pop, kr_latlon, by = c("district"="area")), -->
+<!--             aes(x = lon, y = lat, label = paste0(district, ": ", round(pop/10^4,1), "만")), -->
+<!--             size = 3, color = "blue") -->
+<!-- ``` -->
+
+<!-- *(previously...)*  -->
+
+<!-- ```{r, eval=FALSE} -->
+<!-- # 4. Finally -->
+<!-- fig_all_year <- ggplot(seoul_map_df %>% arrange(group, order)) + -->
+<!--   geom_polygon(aes(x=long, y=lat, group=group, fill = pop)) + -->
+<!--   theme_void() + scale_fill_gradient(low="green", high="red") + -->
+<!--   geom_text(data = left_join(seoul_pop, kr_latlon, by = c("district"="area")), -->
+<!--             aes(x = lon, y = lat, label = paste0(district, ": ", round(pop/10^4,1), "만")), -->
+<!--             size = 3, color = "blue") + -->
+<!-- ### <b> -->
+<!--   facet_wrap(~year) -->
+<!-- ### </b> -->
+<!-- ``` -->
+
+<!-- ## -->
+
+<!-- ### `fig_dynamic` 만들기  -->
+
+<!-- 1. Install `Rtools40` - https://cran.r-project.org/bin/windows/Rtools/ -->
+<!-- 2. Install `devtools` - install.packages("devtools") -->
+
+<!-- ```{r, eval=FALSE} -->
+
+<!-- library(transformr) -->
+<!-- devtools::install_github('thomasp85/tweenr') -->
+<!-- devtools::install_github('thomasp85/transformr') -->
+
+<!-- ### <b> -->
+<!-- fig_dynamic <- fig_static + transition_time(year) -->
+<!-- ### </b> -->
+<!-- anim_save(filename = "anim_seoul.gif", animation = fig_dynamic, -->
+<!--           renderer = gifski_renderer(), height = 300, width = 500) -->
+<!-- ``` -->
+
+
+
+## {data-background=fig/Pair_programming_1.jpg data-background-size=cover}
+
+<div class="white">
+The happiest people have a sense of commitment in everything they do. -- Dr. Bob Rotella
+</div>
+
