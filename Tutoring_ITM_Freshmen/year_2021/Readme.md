@@ -23,10 +23,9 @@
 + Session 6: 4/8(목) 12:30 - day 7-9
 + Session 7: 4/12(월) 12:00 - day 10-11
 + Session 8: 4/26(월) 13:30 - day 12-13
-+ 
 + Session 9: 5/6(목) 12:30 - day 14-16
 +  
-+ Session 10: 5/10(월) 13:30
++ Session 10: 5/10(월) 13:30 - day 17-18
 + Session 11: 5/13(목) 12:30
 + Session 12: 5/17(월) 13:30
 + Session 13: 5/20(목) 12:30
@@ -43,6 +42,41 @@
 
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
+
+## Session 9 - 5/6(목) 12:30 
+
+### Hackers day 14-16
+
++ deliberately: 고의적으로
++ span: 범위, 영역. 걸치다, 확장하다, 늘어뜨리다.
++ surge protector: 멀티탭
++ tentative: *임시의*, *잠정적인*
+    + tentative schedule
+    + tentative action: action without commitment
+    + in-decisive
++ tentatively: 임시적으로, 머뭇거리며
++ solitary: 독방의
++ allegedly: 전해지는 바에 의하면 (딱히 별 근거는 없는)
++ allegation: 억측, 추측
++ false allegation: 거짓된 추측
++ spear-head: 앞장서다 (대열)
++ caution: 주의
++ stagnant: 활발하지 않은, 지지부진한 vs active
++ inflation: 물가 상승
++ stag-flation: stagnation + inflation - 경기는 부진한데 물가만 오르는 현상
++ stationary: 정지된
++ station: 정거장
++ state: 상태
++ implement: 구현하다.
++ em-bodi-ment: 구체화
++ I am tempted to... ~ 하고 싶다, ~에 끌리다.
++ temptation: 유혹 (감정적으로 끌리는 것)
++ vivacity: 생기
++ vivid: 생기있는
++ scrutiny: 정밀한 조사
++ betterment: 향상 (improvement)
++ distribution: 분포 (정규분호)(이산분포)(일양분포)
++ pitfall: 함정, 
 
 ## Session 8 - 4/26 (월) 13:30
 
