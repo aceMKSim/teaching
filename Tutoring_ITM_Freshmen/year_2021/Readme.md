@@ -24,8 +24,8 @@
 + Session 7: 4/12(월) 12:00 - day 10-11
 + Session 8: 4/26(월) 13:30 - day 12-13
 + Session 9: 5/6(목) 12:30 - day 14-16
-+  
 + Session 10: 5/10(월) 13:30 - day 17-18
+
 + Session 11: 5/13(목) 12:30
 + Session 12: 5/17(월) 13:30
 + Session 13: 5/20(목) 12:30
@@ -42,6 +42,62 @@
 
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
+
+## Session 10 - 5/10(월) 13:30 
+
+### Hackers day 17-18
+
++ keen - sharp하다, 예리한, 센스가 있다, He has a keen sense of humor.
++ ef-face - (표면으로 부터) 지우거나 없애다.
++ face - 얼굴, 면 (면상) 
++ impetus - 자극 (물리적인 움직임을 유발하는 자극)
++ eleboration - detail
++ collison - 충돌
++ intangible vs tangible - 무형의 vs 유형의(실제의)
++ tangible asset (vs intangible asset)
++ hospital: 거주할수 있는
++ inhospitable: 거주할수 없는
++ hospitality: 호의, 친절, 환대!
++ competent: 경쟁력있는
++ compete: 경쟁하다
++ competition: 대회
++ inconsistent vs consistent
++ archive
++ swimming pool
++ pool: 모으다.
++ pooling: 모으는
++ comprehensible
++ meticulous
++ bald
++ comprehend: completly understand 섭렵하다.
++ dynamic vs static
++ meticulous: 꼼꼼한
++ esteemed: 존경받는 (admired: 칭송받는)
++ im-moral: 비도덕적인
++ im-mortal: 불멸의
++ thorough: 빈틈없는, 물셀틈없는
++ inclement: 춥고 바람부는 혹한
++ harsh: 가혹한
++ limpid: 영롱한 (액체, 윤, 문학, 음악)
++ deduce: 추론하다 (귀납)
++ reciprocal: 보답의 (눈에는눈 이에는이, eye for eye, teeth for teeth)
++ reciprocal: 역수 ex) 1/3
++ judiciously: with good judgement 
++ judge
++ prudently: 신중하게 (미래에 대한 판단을 기반하여)
++ prudential
++ exhibition: 전시회, 박람회
++ bloat: 표면으로 부터 부풀어 오르다 (물집)
++ prevalent: 널리퍼진
++ deceptive: 속임수의
++ initiative: 시작, 추진, 추진력
++ initial: MKS
++ terminology: 용어
++ pro-long: 연장하다 (시간)
++ prolonged: 길게 늘어지는 (시간) (부정적인 의미를 때로 담음)
++ loath: 혐오
++ loathe: 혐오하다
++ synchronous: 일치하는 (시간)
 
 ## Session 9 - 5/6(목) 12:30 
 
