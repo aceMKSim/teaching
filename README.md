@@ -62,3 +62,32 @@ https://www.quora.com/How-can-you-tell-if-someone-has-a-high-IQ-based-on-their-b
 
 > acutely aware of the limits of their knowledge.
 
+케네디
+https://www.youtube.com/watch?v=ZLxgeINIBEM
+
+Dong Min Kim
+
++ Communication Skills A to Z
+
++ https://youtu.be/NqO1_mEtqLM
+
+ 
+
+Young Chan Kim
+
++ The four human instinct not to make a consultant see the world properly.
+
++ https://youtu.be/8ovNG3NDy5M
+
+ 
+
+Lucas Schneider
+
++ Data Science supplement: Focus on Machine Learning
+
++ https://youtu.be/syloG9Tc6zo
+
+
+The next outbreak? We’re not ready | Bill Gates - YouTube
+www.youtube.com/watch?v=6Af6b_wyiwI
+
