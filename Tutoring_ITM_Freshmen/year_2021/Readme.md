@@ -26,7 +26,7 @@
 + Session 9: 5/6(목) 12:30 - day 14-16
 + Session 10: 5/10(월) 13:30 - day 17-18
 
-+ Session 11: 5/13(목) 12:30
++ Session 11: 5/13(목) 12:30 - day 19-20
 + Session 12: 5/17(월) 13:30
 + Session 13: 5/20(목) 12:30
 + Session 14: 5/24(월) 13:30 
@@ -42,6 +42,63 @@
 
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
+
+
+## Session 11 - 5/11(목) 12:30 
+
+### Hackers day 19-20
+
++ propagation: 전파
++ repel: 격퇴하다
++ insect repellent: 곤충 퇴치제
++ aid: 원조, 보조, 구조
++ alter: 고치다, 변경하다.
++ alteration: 수선
++ alternative: 대안
++ alt (키보드)
++ assemble: 모으다.
++ assembly: 의회
++ glimpse: see for the short period of the time.
++ proposition: 제안
++ susceptible: ~에 취약한 (vulnerable)
++ apparatus: 기구
++ liveliness: 생동감
++ sub-ordinate: 부하
++ (상하관계가 강한) - 비지니스에서 쓸 용어는 아니다.
++ subject: 주제, 피실험대상
++ sub-marine: 잠수함
++ marine: 해병대
++ fertile: 비옥한, 가임의
++ fertility clinic: 가임여성을 위한 클리닉 (산부인과)
++ infertile: 척박한, 불임의
++ outdated: 말소된
++ obsolete: outdated, thus unusable.
++ prestige: 영예로운, 평이좋은 (대한항공의 비지니스 클래스)
++ goodness: 선량, 친절
++ rekindle: start again
++ presuppose: 증명되지 않은것을 받아들이다. (가정하다)
++ Suppose x is a rational number.: x가 유리수라고 가정하자.
++ in earnest: serious and determined
++ determined: 의지가 확고한
++ comply: 지키다. 준수하다. (법이나 규칙)
++ compliance 부서: 준법감시부서
++ reunite: 다시만나다.
++ reunion: 동창회
++ exert: 발휘하다, 내뿜다.
++ tendency: 경향
++ tend: 지키다. 돌보다. 시중들다.
++ mold: 형성하다. 만들다. 곰팡이. 형, 틀.
++ assume: 추정하다. 추측하다. 가정하다.
++ consensus: 동의
++ autonomous vehicle, self-driving car.
++ concealer: 감추는 도구
++ appreciate: 인식하다.
++ verge: 경계
++ I was on the verge of making a phone call.
++ adverse: 반대의
++ adversary: 적 (enemy)
++ vigor: 활력, 힘
++ vigorous: 열정적인, 힘있는
 
 ## Session 10 - 5/10(월) 13:30 
 
