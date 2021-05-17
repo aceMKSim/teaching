@@ -8,11 +8,6 @@
 + 황현민	hyunmin43240@gmail.com
 + 최훈석 0513david@naver.com
 
-## 가능한 시간
-
-+ 월 12-15 (preferred)
-+ 목 12-14
-
 ## Sessions
 
 + Session 1: 3/18(목) 12:30
@@ -25,7 +20,6 @@
 + Session 8: 4/26(월) 13:30 - day 12-13
 + Session 9: 5/6(목) 12:30 - day 14-16
 + Session 10: 5/10(월) 13:30 - day 17-18
-
 + Session 11: 5/13(목) 12:30 - day 19-20
 + Session 12: 5/17(월) 13:30 - day 21-22
 + Session 13: 5/20(목) 12:30 - day 23-24 (황현민, 백승우)
@@ -43,8 +37,11 @@
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
 
+## Session 12 - 5/17(월) 13:30 
 
-## Session 11 - 5/11(목) 12:30 
+### Hackers day 21-22
+
+## Session 11 - 5/13(목) 12:30 
 
 ### Hackers day 19-20
 
