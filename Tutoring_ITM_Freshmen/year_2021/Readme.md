@@ -41,6 +41,63 @@
 
 ### Hackers day 21-22
 
++ exceed: 초과하다.
++ excessive: 과도한
++ clumsy: 서투른
++ undue: 과도한
++ due: 정당한
++ due date: 마감기한 (deadline)
++ "With all due respect" - 외람된 말씀이지만...
++ With all due respect, I don't think that's the case.
++ spell: 스펠링을 받아적다
++ spell out: 하나하나 자세히 (설명)하다.
++ spell: 마법
++ sanctuary: 성역, 피난처
++ eject: 빼다
++ epitomize: 요약하다. 전형이 되다. (typical example)
++ consequent: 결과의 (인과의 후행)
++ subsequent: 다음의 (시간적인 후행)
++ regret: 후회하다
++ regrettably: 애석하게도, 안타깝게도
++ unfortunately: 불운하게도, 안타깝게도
++ prejudice, stereo type: 편견
++ abolish: 폐지하다
++ culminate: 절정에 다다르다.
++ origin: 기원
++ original: 원본의
++ original vs fake
++ genuine vs fake
++ mutilate: 자르다, 절단하다. (그로인해 damage를 입히다)
++ limited: 제한된
++ limited: 한정판
++ confine: 가두다
++ Let's confine our attention to Seoul.
++ confine our discussion.
++ exceptionally: (일반적이지 않은)
++ exceptional, outstanding
++ contradicting: 서로 대립되는 (A vs B)
++ juncture: 접합. IC, JC.
++ IC: interchange - 고속도로와 일반도로가 만나는 지점
++ JC: junction - 고속도로와 고속도로가 만나는 분기점
++ dissipate: 흩어지다.
++ ambivalent: 양면적인, 반대의 감정을 가진, being uncertain about how you feel.
++ ambi-: 두개가 공존하는...
++ amphibians: 양서류 (개구리)
++ ambiguous: 애매한
++ ambient: 주위의
++ ambition: 야망
++ apex: 정점
++ vertax: 꼭지점
++ thrill: extreme excitement usually by something pleasant.
++ lucid: 맑은, 빛나는, 영롱한 (visual)
++ lux: 빛의 강도를 세는 단위
++ practice
+    + law practice: 법조계에서 일을 함
+    + doctor's practice: 의료계에서 종사
++ ag-gre-gate: 모으다.
++ gregarious: liking to be with other people.
++ density: 밀도, 빽빽한 정도
+
 ## Session 11 - 5/13(목) 12:30 
 
 ### Hackers day 19-20
