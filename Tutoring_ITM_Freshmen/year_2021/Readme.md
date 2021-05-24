@@ -37,6 +37,75 @@
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
 
+## Session 14 - 5/24(월) 13:30 
+
+### Hackers day 25-26
+
++ dwindle: 시들해지다
++ jettison: 투하하다, 버리다. (discard)
++ deflect: 방향이 변하다. 빛의 굴절.
++ impede: 방해하다.
++ ped: 걷다, 발
++ crosswalk: 횡단보도
++ pedstrian: 보행자
++ centi-pede: 지네 
++ centi-meter: 100분의 1미터
++ kilo-meter: 1000미터 
++ inhibit: 억제하다
++ inhibitor: 억제제
++ premise: 가정
++ intercourse: 교통, 왕래, 성행위
++ correspond to~: ~에 대응되는
++ etch: 새기다
++ sophisticate: 세련된
++ insight: 직관, 통찰
++ aridity: 매우 건조함
++ arid: 매우 건조한
++ inheritor: 상속을 받은 사람
++ de-flect vs re-flect 굴절 vs 반사 
++ de-form, de-form-ation 변형
++ re-form, re-form-ation 개혁하다
++ mutate: 변화하다
++ im-mutable: 불변의
++ in my humble opinion (IMHO)
++ convict: 유죄평결을 내리다. 재소자.
++ distinguish: 구별하다
++ en-act-ment: 법률의 제정
++ graduate to vs promote
++ naive: 순진한
++ lucrative: 돈이되는
++ uni-vers-al: 보편적인 (시간, 공간의 관점에서 공통적인)
++ doctrine: 신조
+
+### Hackers day 23-24
+
++ unsettled: 아직 해결되지 않은
++ prosperous: 풍부한 
++ shrewd: 날카로운 
++ erratic: 이상한, 산만한
++ astute: 기민한
++ preeminent: 매우 중요하고 힘이 센
++ consequence vs subsequence
++ re-compense: 보상금 (~에 대한 댓가로)
++ strenuous: 힘이쎈
++ scanty: 희박한
++ sparse: 희박한
++ heyday, prime: 전성기
++ refine: 정제하다
++ refinery: 정유시설, 정제시설
++ fake vs original(원본의), genuine(진짜), authentic(진짜의 권위를 가진 진짜)
++ 인조가죽(synthetic leather) vs 천연가죽(genuine leather)
++ mandate
++ ritual: 의식적인, 규칙적인
++ funeral: 
++ furnish: 제공하다.
++ furniture: 가구
++ furnished vs unfurnished: 풀옵션(세탁기, 냉장고, 침대)
++ furnished *one bedroom* apartment: 침실+거실
++ furnished studio apartment: 풀옵션 원룸
++ refuge: 피난처
++ refugee: 피난민
+
 ## Session 12 - 5/17(월) 13:30 
 
 ### Hackers day 21-22
