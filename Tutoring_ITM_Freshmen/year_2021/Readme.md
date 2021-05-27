@@ -37,7 +37,77 @@
 + https://b.socrative.com › MKSIM
 + (google에서 "socrative student"로 검색)
 
-## Session 14 - 5/24(월) 13:30 
+## Session 15 - 5/27(목) 12:30 
+
+### Hackers day 27-28
+
++ enlist: 징병, 참가
+    + enlisted: 사병 (상병까지)
+    + non-commissioned officer: 부사관
+    + commissioned officer: 장교
+    + commission: 수수료, 명령
++ integrate: 통합하다
+    + integral: 적분
+    + merger & acquisition: 인수 및 합병
+    + vertical integration: 대한항공+호텔
+    + horizontal integration: 대한항공+아시아나
++ norm: 규정
+    + normal: 보통의
+    + ||3||=3, ||-2||=2 
+    + 원점으로 부터의 거리
+    + ||(3,4)||=5
++ onlooker: 감시자
++ -en이라는 접미어를 이용해서 동사로 변환
+    + threat: 위협 -> threaten
+    + strength -> strengthen
++ jeopardize: 위험에 빠트리다.
++ re-in-force: 강화하다. 
++ channel A into B: A의 흐름을 B 방향으로 유도하다.
++ clear -> clarify
++ contro-versi-al: 논쟁의 여지가 있는
++ contrast: 대조적인
++ verse: 산문
++ poem: 시
++ stalwart: 충실한, 키카크고 늠름한
++ malleable: 온순한, 다루기 쉬운, easily influenced.
++ obsolete: outdated, thus unuseful
++ halt: 정지하다. (stop)
++ cease: 멈추다
++ rally: 달리다. **주식등의 자산가격이 계속해서 상승하다.**
++ expunge: 지우다. 없애버리다.
++ profuse: 풍부한
++ di*min*ution: 축소
+    + minimum
+    + minute: 분, 작은
+    + minute-scaled
++ in-dispens-ible: 버릴수 없는
++ irreparable
+    + in-repair-able 
+    + impossible to repair
++ write legibly: 알아볼수 있게 쓰시오.
++ displace
+    + replace (대체하다)
+    + to force something out of its usual or original position
+    + 이탈, 뼈의 탈구
++ maintain: 유지하다. 주장하다.
++ mainstay: 대들보
++ work out: 운동하다. (헬스)
++ work out at: 계산되다.
++ worksheet: 엑셀의 워크시트
++ yield
+    + 양보하다. 
+    + 산출하다. 생산하다.
+    + 채권등의 자산에서 수익을 얻다, 혹은 그 수익률
++ dwelling: 거주지 
++ habitat 서식지, 거주지
++ faithful
+   + 충실한, 정확한, 성실한
+   + (대상이 있어야 함)
+   + friendship, loyalty, principle, religion
++ ir-replace-able: 대체 불가능한
++ adequate: (충분해서) 적절한
++ under-mine: 쇠퇴시키다, 악화시키다 (근간으로부터)
++ pro-long: 길어지게 하다. 
 
 ### Hackers day 25-26
 
