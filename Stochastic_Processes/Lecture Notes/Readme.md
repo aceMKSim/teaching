@@ -1,4 +1,9 @@
-## 오탈자 및 제안에 대해서 `mksim@seoultech.ac.kr`로 이메일 부탁드립니다.
+## About
+
++ 하위 폴더 `Raw_notes`에는 강의노트 원본이 담겨 있습니다.
++ 하위 폴더 `Annotated_notes`에는 강의중에 첨가된 annotation을 포함하고 있습니다. 
++ 오탈자 및 제안에 대해서 `mksim@seoultech.ac.kr`로 이메일 주시면 감사드리겠습니다.
++ Copyleft이지만, 사용하실때에는 출처를 적어주시면 감사드리겠습니다.
 
 ## Self-study에 관한 instruction
 
