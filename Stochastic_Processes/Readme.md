@@ -9,6 +9,10 @@
     + 데이터시각화는 가급적이면 석사 2학기 이후 수강을 권유함
     + **강화학습 수강을 원하면 반드시 선수 교과목에 해당하는 확률모형 및 시뮬레이션을 수강해야 함**
 
+### Youtube 강의 영상
+
++ https://youtube.com/playlist?list=PLwlzNxtcbjrm0Z6qh398eQ9QX168odL6J
+
 ### 강의 개요
 
 + 목적
