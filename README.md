@@ -62,6 +62,4 @@ https://www.quora.com/How-can-you-tell-if-someone-has-a-high-IQ-based-on-their-b
 
 > acutely aware of the limits of their knowledge.
 
-The next outbreak? We’re not ready | Bill Gates - YouTube
-www.youtube.com/watch?v=6Af6b_wyiwI
 
