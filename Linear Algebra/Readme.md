@@ -1,6 +1,6 @@
 ### Youtube Playlist
 
-+ 아래 링크에서 모든 강의를 공유합니다. 
++ 아래 링크에서 강의 동영상을 공유합니다. 
 + https://youtube.com/playlist?list=PLwlzNxtcbjrnXHPuq8R1G1Bytu8s3miQ2
 
 ### Partial credit policy & Regrading request
