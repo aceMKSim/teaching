@@ -6,7 +6,7 @@
 + 우진솔	jinsol.claire@gmail.com
 + 이재경	mins_1026@naver.com
 + 황현민	hyunmin43240@gmail.com
-+ 최훈석 0513david@naver.com (군휴학)
++ 최훈석 0513david@naver.com (군휴학 ㅠㅠ)
 
 ## Fall Sessions
 
