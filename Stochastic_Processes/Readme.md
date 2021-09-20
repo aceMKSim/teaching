@@ -1,7 +1,11 @@
 ## 확률 모형과 강화학습 
 
-+ 첫번째 학기 과목명: 확률모형및시뮬레이션 - 2021 Spring, [2022 Fall - expected]
-+ 두번째 학기 과목명: 강화학습 - 2021 Fall, [2023 Spring - expected]
++ 첫번째 학기 과목
+    + 과목명: 확률모형및시뮬레이션
+    + 2021 Spring, [2022 Fall - expected]
++ 두번째 학기 과목
+    + 과목명: 강화학습
+    + 2021 Fall, [2023 Spring - expected]
 
 ### Youtube 강의 영상
 
