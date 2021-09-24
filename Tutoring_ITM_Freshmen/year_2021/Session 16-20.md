@@ -63,3 +63,17 @@
     + coalesce: 융합하다.
     + (a)esthetics: 미학
     + plasticity: the quality of being soft enough to be changed into a new shape
+
+### 갑자기 생각이 난건데 이제는 돌아갈수 없겠지 
+
++ 심: I think I cannot go back any more.
++ 우: I think I will never get back
++ 이: I think I can't return to that time (any more)
++ 백: I think we can't go back to the past when we were together.
++ 우: pass?
++ 이: **I just thought of this**, but I can't return to the time.
++ 백: pass
++ 심: It just hit my mind that ....
++ 심: I just come to think of that...
+
+### 뭐든지 함께했던 그 시간으로 돌아가기엔 이미 늦은거겠지
