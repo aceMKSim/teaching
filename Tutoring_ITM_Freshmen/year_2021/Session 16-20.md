@@ -6,6 +6,46 @@
 + Session 19: 10월 1일 (금) 16:00-17:30
 + Session 20: 10월 5일 (화) 10:00-11:30 
 
+### Session 19 - day 1-2
+
++ deliverable: 전달물 (명사)
++ conspiratorial: 의심스러운
++ irre-voca-bly
++ invoke: 빌다, 기원하다
++ intriguing: 흥미를 불러 일으키는
++ sporadic: 
+
++ Ash island - paranoid
+
+별이 보일 때쯤 나는 눈을 감았네
+머리까지 이불을 덮어
+내가 잘 안 보이게
+누군가 내 삶을 뺏아가도 모르기에
+
+심: I closed my eyes after stars were risen.
+Blanket covered my whole head *so that* I can't be seen.
+*So that* no one knows if my life is taken. 
+
+백: When stars become to be seen, I closed my eyes. Covering my head by blanket, not to be seen. Since someone could take away my life.
+
+take me away (o)
+take away me (x)
+take shoes away (o)
+take away shoes (o)
+
+황: Closed my eyes when I could see the star. **Covered up** my head with blanket so that nobody could ~see~ find me. 'Cause I don't know if anyone would take my life.
+
+이: By the time the stars are visible, I closed my eyes. Covered my head with blanket. I can't see well. Who takes my life.
+
++ 지금 시간에도 누가 날 겨누고 있어 알지 안 일어날 걸 하지만 아무도 몰라
+
++ 백: In this moment, someone aim on me. I know that it would not happen, but anyone can't know that ().
++ 이: Someone is aiming at me every moment. I know nothing will happen, but no one knows that for sure *it's real*.
++ 황: Even at this very moment, someone is after me. I know nothing will happen, but no one knows about that.
++ 심: Even at this very time, someone is after me. I know it won't happen, but nodoby dare to know.
+
+
+
 ### Session 16 - day 29-30
 
 + failing: 실패, 부족
