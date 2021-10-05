@@ -6,6 +6,10 @@
 + Session 19: 10월 1일 (금) 16:00-17:30
 + Session 20: 10월 5일 (화) 10:00-11:30 
 
+### Session 20 - day 3-5
+
+
+
 ### Session 19 - day 1-2
 
 + deliverable: 전달물 (명사)
