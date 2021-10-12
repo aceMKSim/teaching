@@ -6,6 +6,14 @@
 + Session 24: 10월 19일 (화) 10:00-11:30
 + Session 25: 11월 5일 (금) 16:00-17:30
 
+## Session 22
+
++ https://youtu.be/fchjE44Y4_c (R markdown #1)
++ https://youtu.be/49xG4AJnozo (R markdown #2)
++ commencement, commendation
++ splendid ex) Have a splendid day
++ standard deviation: 표준편차 (sd)
+
 ## Session 21
 
 + 타고난: innate, ~inherent~, a priori, congenital
