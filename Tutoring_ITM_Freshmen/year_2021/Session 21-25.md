@@ -6,6 +6,43 @@
 + Session 24: 10월 19일 (화) 10:00-11:30 day 15-17
 + Session 25: 11월 5일 (금) 16:00-17:30
 
+## Session 24
+
+### day 15-17
+
++ trans-parent
++ trans-plant: 이식하다.
++ evacuate: 대피하다
++ evacuation plan: 대피 계획
++ exodus
++ pace: (일정한) 속도
++ dimension: 차원 3 dimensional space
++ dispute: 논쟁하다. 논란을 제기하다.
++ dispute the charge
++ disputable vs contro-versial
++ in-viol-able: 거역할 수 없는
++ violation: 폭력
++ domestic violation: 가정폭력
++ domestic: "home"
++ domesticate: 길들이다.
++ violate: 어기다. 규칙, 법률을 어기다
++ 3 second violation
++ deceptive: 속이는, 속임수의
++ deceiving: 속이는
++ barren: 황량한
++ stag-nant
++ stagger: 질질끌다
++ stag-flation
++ stalwart: 충성스러운
++ judge: 판단하다. 옳고 그름을 판단하다. Stop judging me - 나를 비난하지 마라.
++ accordingly: 따라서
++ incorporate: 포함하다.
++ hamper: 방해하다.
++ improvise: 즉석에서 지어내다.
++ primeval: 태초의
++ ultimate: fundamental
++ 
+
 ## Session 23
 
 ### day 12-14
