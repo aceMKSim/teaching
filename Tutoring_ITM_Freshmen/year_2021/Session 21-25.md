@@ -10,9 +10,45 @@
 
 ### day 18-20
 
-+ 
-+ 
-+ 
++ appratus
++ defeat
++ evacuate
++ customary
++ burden
++ adapt
++ put, place
++ merciless, "expect no mercy"
++ atypical
++ expect: 예상하다
++ predict: 예측하다
++ anticipate: 기대하다 (긍정적인 미래, 좀 더 주관적)
++ con-form: 순응하다
++ concealer
++ carve, engrave
++ swift
++ under-developed, retarded, retard - 저능아
++ locate, pinpoint
++ edible: 식용의
++ reportedly: 전해지는 바에 따르면
++ intangible: 무형의
++ necessity: 필수품
++ continuous, successive
++ excessively
++ apparently: 명백하게
++ miniature
++ hastily
++ trace, track
++ debatable, controversial
++ majestic: 위엄있는
++ I appreciate your kindness, your majesty. 전하 성은이 망극하옵니다.
++ Yes, your honor.
++ precipitate, sediment
++ short-lived
++ hand over
++ resort to: 의지하다
++ last resort
++ dissent
++ dissipate: 퍼트리다
 
 ## Session 24
 
