@@ -2,6 +2,7 @@
 
 + URL (비밀번호 입력 필요없음) https://seoultech.zoom.us/j/6490221641?pwd=c0RHaXlkMXRLU1h0WkZ0TWp6RVNqZz09
 + URL (비밀번호 입력 필요) https://seoultech.zoom.us/j/6490221641
++ 회의실번호: 6490221641
 + 비밀번호: 355785
 
 ## Datacamp.com
