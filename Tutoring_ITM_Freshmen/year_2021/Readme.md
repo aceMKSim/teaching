@@ -1,8 +1,9 @@
 + Session 26: Nov 12 (Fri) 4pm
-+ Session 27: Nov 16 (Tue) 10am
-+ Session 28: Nov 23 (Tue) 10am
-+ Session 29: Nov 26 (Fri) 4pm
-+ **Session 30: Nov 30 (Tue) 10am** (시간 다들 되면 저녁으로!)
++ Session 27: Nov 23 (Tue) 10am
+
++ Session 28: Nov 26 (Fri) 4pm
++ **Session 29: Nov 30 (Tue) 10am** (시간 다들 되면 저녁으로!)
++ Session 30: 
 
 # 2021년 튜터링
 
