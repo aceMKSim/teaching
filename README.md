@@ -1,9 +1,9 @@
 ## 면담 및 오피스 아워를 위한 Zoom Link
 
-+ URL (비밀번호 입력 필요없음) https://seoultech.zoom.us/j/6490221641?pwd=c0RHaXlkMXRLU1h0WkZ0TWp6RVNqZz09
-+ URL (비밀번호 입력 필요) https://seoultech.zoom.us/j/6490221641
++ 단축주소: https://seoultech.zoom.us/my/mksim
 + 회의실번호: 6490221641
 + 비밀번호: 355785
++ URL (비밀번호 입력 필요없음) https://seoultech.zoom.us/j/6490221641?pwd=c0RHaXlkMXRLU1h0WkZ0TWp6RVNqZz09
 
 ## Datacamp.com
 
