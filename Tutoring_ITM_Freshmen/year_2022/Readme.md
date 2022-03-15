@@ -17,3 +17,11 @@
   + ocw.mit.edu
   + datacamp.com
   + License 제공 완료 - "Introduction to Python" 추천
+
+## Mar 15
+
++ day 1 - quiz and discussion
+
+## Mar 22 
+
++ day 1-2: quiz and discussion
