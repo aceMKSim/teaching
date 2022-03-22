@@ -25,3 +25,15 @@
 ## Mar 22 
 
 + day 1-2: quiz and discussion
++ auto-nomous: 자율적인
++ auto-nomy: 자치
++ stockpile: 
++ stock: 주식, 재고
++ GalFold is out of stock. 
++ stack: 쌓다
++ postulate: 
++ ac-customed
++ ac-knowledge
++ integrity: 정직, 도덕적 성숙
++ full package
+
