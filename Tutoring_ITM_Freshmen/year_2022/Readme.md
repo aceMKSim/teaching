@@ -66,3 +66,12 @@
 + succession: 계승, 연속
 + notion: 관념, 개념, 견해
 + ex-orbit-ant
+
+## Apr 19
+
++ ex-ist
++ sub-sist: maintain or support oneself, especially at a minimal level.
++ Virginia City, Nevada
++ New York, New York
++ Chicago, Illinois
++ 
