@@ -74,4 +74,45 @@
 + Virginia City, Nevada
 + New York, New York
 + Chicago, Illinois
-+ 
+
+## Apr 26
+
++ article: 물품
++ toilet article: 세면도구
++ liberty: 자유
++ liberate: 자유화하다. 해방하다.
++ The statue of liberty
++ variety vs diversity
++ variable
++ gear: 맞게 조정하다
++ 1단 기어, 2단 기억
++ transmission
++ spur: 자극하다. 촉진하다.
++ 기병대 cavarly
++ inter-play
++ pro-lifer-ate: (세균, 바이러스 등이) 증식
++ palatial <- palace: 궁궐같은
++ palace hotel
++ inclination: 경사, 경향, 기호, 선호
++ I am inclined to ~ : ~하고 싶다.
++ ratio: 비율 5:5, 4:6
++ proportion: 비율
++ insolent: very rude
++ flee: 도망치다. (망명)
++ reflect: 반사하다, 나타내다, 숙고하다.
++ reflection: 반사, 자아성찰
++ pre-cede
++ precedent
++ hazard vs danger
++ A hazard is a condition vs danger is a situation
++ crude oil: 원유
++ petroleum: 석유
+
+
+
+
+
+
+
+
+
