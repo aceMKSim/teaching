@@ -108,11 +108,40 @@
 + crude oil: 원유
 + petroleum: 석유
 
+## May 10 (day 11-12)
 
-
-
-
-
++ to some extent, to some degree: 어느 정도는
++ diversion: 주의를 돌리다
++ diverge: 발산하다.
++ post-er-ity: 후대
++ post covid: 코로나 이후의 사회
++ counterpart: 한 쪽
++ commend: 칭찬하다.
+    + commendation: 칭찬
+    + commendation ceremony: 수여식, (대학교) 졸업식
++ command: 명령하다
++ commander: 명령권자
++ burst: (눈물보가) 터지다
++ expedite: 촉진시키다
++ expedited mail
++ artifact: 인공물
++ artificial: 인공의
++ art: 예술, 기술
++ Art of loving - Erich Fromm
++ splendor: 멋짐, 화려함
++ splendid: 멋지고 화려한
++ pronounced: 드러나는, 현저한
++ tuned to~: ~에 맞춰진
++ buffer: 완화하다, 보호하다.
++ origin: 기원
++ original: 원본, 참신한/새로운(novel) 아이디어
++ novelity: 새로움
++ vacant: 비어있음
++ vacance: 바캉스 (비우고 놀러감)
++ trivial: 사소한
++ vertical/horizontal
++ landscape/portrait
++ conducive
 
 
 
