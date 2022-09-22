@@ -4,6 +4,15 @@
 
 수치는 언제나 틀릴 수 있습니다. 사용한 method가 무엇이던 간에, 대부분의 경우에 수학은 답안을 확인해 볼 수 있는 검산 방법, 혹은 alternative approach를 제공합니다. 이를 통해서 스스로 답이 틀렸다는 것을 파악할 수 있었으면 합니다.
 
+### Error Correction
+
++ In Problem 4,
+    + The last element of the matrix is 6 instead of 8
+    + Thanks for reporting by Chanwoo Park (22F)
++ In Problem 5 (b),
+    + 2*(R2)+(R4) is correct answer. (R4)-2(R2) is wrong. 
+    + Thanks for reporting by Chanwoo Park (22F)
+
 ### Quiz 1 partial credit
 
 + Prob 1: None
