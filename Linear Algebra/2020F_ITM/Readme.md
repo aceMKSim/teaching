@@ -6,10 +6,10 @@
 
 ### Error Correction
 
-+ In Problem 4,
++ In Quiz 1, Problem 4,
     + The last element of the matrix is 6 instead of 8
     + Thanks for reporting by Chanwoo Park (22F)
-+ In Problem 5,
++ In Quiz 1, Problem 5,
     + (a) should have the third row of [3i 3j 3k 3l]
     + (a) should have the fourth row of [2e+m 2f+n 2g+o 2h+p]
     + In (b)-4, 2*(R2)+(R4) is correct answer. (R4)-2(R2) is wrong. 
