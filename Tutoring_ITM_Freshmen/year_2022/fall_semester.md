@@ -43,3 +43,15 @@ mythical: 신화적인
 subdue: to reduce the force of something, or to prevent something from existing or developing  
 absurd: unreasonable, illogical, inappropriate  
 pro-lifi-c: 다산의, 비옥한  
+
+## day 3-4
+
++ subsidiary: 보조적인, 자회사 
++ simultenous: 동시에 (concurrently)
++ sequential: 순차적인 
++ readily: 기꺼이 즉시
++ rupture: 파열되다 찢어지다 불화
++ propagate: 번식하다, 증식하다, 전파하다, 퍼지다.
++ convert: 전향하다 전환하다
++ autopsy: 부검
++ adept
