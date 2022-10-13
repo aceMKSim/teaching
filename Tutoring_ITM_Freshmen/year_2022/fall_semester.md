@@ -55,3 +55,31 @@ pro-lifi-c: 다산의, 비옥한
 + convert: 전향하다 전환하다
 + autopsy: 부검
 + adept
+
+## day 5-6
+
++ domain: 영역
++ domain knowledge
++ equili-brium: 평형 (무게가 같다)
++ adept: skilfully
++ attributable: 기인하는
++ attribute: 원인을 돌리다, 책임을 전가하다
++ attribute: 특성, 인자
++ colonize
++ inflict: 가하다 (충격, 고통등)
++ pro-ponent vs op-ponent
++ speculate: 추측하다, 투기하다. (vs invest)
++ co-incidence: 우연
++ turbulent: 격동적인
++ replica
++ appraisal: 감정 (가치를 매기는 것)
++ appreciate vs depreciate(감가되다)
++ circum-stance: 주위 환경, 상황
++ under the circumstances
++ circumference: (원의) 둘레
++ perimeter: 둘레, 주변
++ indeed: 참으로, 사실은 (really)
++ dispersion
++ super-sede: 덮어쓰다
++ ab-ridge
+
