@@ -87,3 +87,14 @@ pro-lifi-c: 다산의, 비옥한
 
 + scrutiny
 + scrutinize: 자세히 보다 면밀히 조사하다.
++ profuse: 풍부한
++ mortality
++ deemed as~: ~로 여겨지는
++ friction
++ pose: (질문을) 던지다
++ discern: 구별하다, 분별하다
++ ar·du·ous: 근면한
++ sneak out: 담타고 빠져나가다.
++ disrespce -> diss
+
+
