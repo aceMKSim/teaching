@@ -83,3 +83,7 @@ pro-lifi-c: 다산의, 비옥한
 + super-sede: 덮어쓰다
 + ab-ridge
 
+## day 7-8
+
++ scrutiny
++ scrutinize: 자세히 보다 면밀히 조사하다.
