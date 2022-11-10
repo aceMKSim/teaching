@@ -108,3 +108,8 @@ pro-lifi-c: 다산의, 비옥한
 + repellent: 퇴치제
 + allegiance: 충성
 + unequivocally: 확실하게 (말할때)
++ tearing us down: 우리를 갈갈이 찢다 (산산조각내다)
++ wear and tear
++ sick: 쩌는
++ horrible: 끔찍한
++ salivate
