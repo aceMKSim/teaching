@@ -97,4 +97,14 @@ pro-lifi-c: 다산의, 비옥한
 + sneak out: 담타고 빠져나가다.
 + disrespce -> diss
 
+## day 9-10 (Nov 10)
 
++ cumbersome
++ cumber: a hindrance, obstruction, or burden.
++ troublesome
++ antagonize: 적대시하다
++ scrupulous: 꼼꼼한, 양심적인
++ re·pel: 쫓아버리다.
++ repellent: 퇴치제
++ allegiance: 충성
++ unequivocally: 확실하게 (말할때)
