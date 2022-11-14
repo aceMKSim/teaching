@@ -113,3 +113,25 @@ pro-lifi-c: 다산의, 비옥한
 + sick: 쩌는
 + horrible: 끔찍한
 + salivate
+
+## day 11-12
+
++ utilitarian: 실용적인 / 공리주의자
++ revolution
++ RPM: 분당회전수
++ resolute: 결심한
++ resolve: 해결하다
++ resolution: 결심
++ New year's resolution: 새해의 결심 e.g.) 금연, 헬스
++ subtle: 사소한
++ chancy vs uncertain
++ divergent: 발산하는 (의견등이 다른)
++ convergent: 수렴하다 (의견등이 같은)
++ outlying: 떨어진
++ kinship: 혈육, 친척관계
++ kin: 친척
++ akin to~: ~와 유사한
++ conduct: (열, 전기, 에너지)를 전하다
++ conducive: 유용한, 도움이 되는
++ disdainful: 경멸스러운
++ corroborate: confirm
