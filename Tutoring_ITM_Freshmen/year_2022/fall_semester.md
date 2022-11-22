@@ -135,3 +135,28 @@ pro-lifi-c: 다산의, 비옥한
 + conducive: 유용한, 도움이 되는
 + disdainful: 경멸스러운
 + corroborate: confirm
+
+## day 13-14
+
++ with respect to (w.r.t.)
++ lifespan: 수명
++ span: 늘리다, 확장하다, 걸치다, 펼쳐져있다.
++ lifecycle:
++ nearly: 거의
++ merely: 단지 (only, just)
++ appreciable: 주목할만한
++ cabinet: 내각
++ seep: 액체가 새다
++ weep: 울다 흘리다
++ weep: 채찍 (말채찍)
++ whip: 채찍
++ carrot and stick
++ given that~: ~가 주어졌으므로... ~을 고려하면
++ cargo: 짐칸, 화물 cargo truck
++ passenger op. cargo op.
++ anchoring effect: 고정 효과
++ recur = repeatedly incur: 재발하다. recurring payment: 할부
++ deliberately: 교묘하게 조심스럽게 고의적으로
++ stipulation: 조약
++ zealous: 열정적인
++ 
