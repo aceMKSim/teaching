@@ -1,5 +1,7 @@
 ## Data Visualization (2022 Fall)
 
++ 강의 동영상: https://youtube.com/playlist?list=PLwlzNxtcbjrnG5SJKMo-HXaKmpaH1rOk7
+
 ### L series
 
 + L01: Effective Communication - How should I organize my idea? (Minto's principle)
