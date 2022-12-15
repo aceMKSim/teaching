@@ -16,6 +16,7 @@
     + Thanks for reporting by Chanwoo Park (22F)
 + In Final, Problem 1,
     + (b) The solution is correct. $(5/2, 6, 19/2)$ But the way to find the solution had an error.
+    + Thanks for reporting by Jeongyun Lee and Seyeon Oh (22F)
 
 ### Quiz 1 partial credit
 
