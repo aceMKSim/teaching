@@ -14,6 +14,8 @@
     + (a) should have the fourth row of [2e+m 2f+n 2g+o 2h+p]
     + In (b)-4, 2*(R2)+(R4) is correct answer. (R4)-2(R2) is wrong. 
     + Thanks for reporting by Chanwoo Park (22F)
++ In Final, Problem 1,
+    + (b) The solution is correct. $(5/2 6 19/2)$ But the way to find the solution had an error.
 
 ### Quiz 1 partial credit
 
