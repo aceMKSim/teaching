@@ -26,3 +26,7 @@
     + ocw.mit.edu
     + datacamp.com License 제공 완료
     + "Introduction to Python" 추천
+
+## College life
+
+https://www.youtube.com/watch?v=aNTA9FlJVco
