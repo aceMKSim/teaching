@@ -10,9 +10,8 @@
 + 개요
     + Python, R, SQL등의 프로그래밍 언어를 interactive한 tutorial 형식으로 배울수 있는 사이트입니다.
     + 원래 유료이지만, 아래의 invitation link로 들어가서 @seoultech.ac.kr 계정을 사용하면 가입이 됩니다.
-    + https://www.datacamp.com/groups/shared_links/6a69775981fe580b7bf8741c91b7fd7ae66436873069763251bcef7ee7953ea6
-    + https://www.datacamp.com/groups/shared_links/71a12fdb944c5e06f19358e915ed52a82f9255208167b68119cdab838be50672
-    + 위의 링크는 2023년 가을 학기에 해당합니다. 매학기 종료후에 계정이 만료됩니다. 그 때는 위의 링크를 클릭하고 다시 가입을 하면 됩니다. (위의 링크가 만료되었다면 연락 부탁드립니다.)
+    + https://www.datacamp.com/groups/shared_links/23658720759e9eb5157673215a9ce1d0c24fe533fa906dc9ce8488f407520be9
+    + 위의 링크는 2024년 가을 학기에 해당합니다. 매학기 종료후에 계정이 만료됩니다. 그 때는 위의 링크를 클릭하고 다시 가입을 하면 됩니다. (위의 링크가 만료되었다면 연락 부탁드립니다.)
 
 + 추천 course
     + [Intro to Deep Learning] https://learn.datacamp.com/courses/introduction-to-deep-learning-with-keras
