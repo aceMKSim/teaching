@@ -20,4 +20,6 @@
 
 ## Problem 5
 
++ Your work should begin with using the definition of **basis**
 + Work with a very minor mistake (e.g. one that can be fixed with one word) earns 5 pts. Otherwise, no partial point.
+
