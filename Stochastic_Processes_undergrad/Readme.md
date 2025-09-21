@@ -5,8 +5,10 @@
 + 추계과정 (산업정보시스템전공 3학년)
     + 2023Sp
     + 2024Sp
+    + 2025Sp
 
 + Stochastic Process (ITM Level 5)
     + 2024F
+    + 2025F
 
 + 오탈자와 오류등은 `mksim@seoultech.ac.kr`로 제보 부탁드립니다.
