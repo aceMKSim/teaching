@@ -6,6 +6,7 @@
     + 2023Sp
     + 2024Sp
     + 2025Sp
+    + 2026Sp
 
 + Stochastic Process (ITM Level 5)
     + 2024F
